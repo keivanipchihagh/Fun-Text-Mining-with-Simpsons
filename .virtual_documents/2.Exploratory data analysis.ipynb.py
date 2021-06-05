@@ -5,6 +5,7 @@ import re
 import string
 import pickle
 import spacy
+from wordcloud import WordCloud
 
 nlp = spacy.load('en_core_web_sm')
 
@@ -54,10 +55,17 @@ plt.ylabel('Character')
 plt.show()
 
 
+wc = WordCloud(
+    background_color = "white",
+    colormap = "Dark2",
+    max_font_size = 150,
+)
 
+wc.generate(' '.join(all_words))
 
-
-
+plt.imshow(wc, interpolation = 'spline36')
+plt.axis("off")
+plt.show()
 
 
 
