@@ -10,6 +10,8 @@ characters_df = pd.read_csv('Data/Raw/simpsons_characters.csv', dtype = 'unicode
 episods_df = pd.read_csv('Data/Raw/simpsons_episodes.csv', dtype = 'unicode')
 locations_df = pd.read_csv('Data/Raw/simpsons_locations.csv', dtype = 'unicode')
 
+scripts_df.head()
+
 
 # lcoation_df
 locations_df.drop(columns = ['name'], inplace = True)
@@ -21,7 +23,7 @@ episods_df.drop(columns = ['image_url', 'original_air_year', 'video_url', 'produ
 characters_df.drop(columns = ['normalized_name', 'gender'], inplace = True)
 
 # scripts_df
-scripts_df.drop(columns = ['word_count', 'raw_character_text', 'raw_location_text', 'timestamp_in_ms', 'normalized_text', 'raw_text', 'number', 'id'], inplace = True)
+scripts_df.drop(columns = ['word_count', 'character_id', 'location_id', 'timestamp_in_ms', 'normalized_text', 'raw_text', 'number', 'id'], inplace = True)
 
 
 # location_df
@@ -62,10 +64,8 @@ episods_df['us_viewers'] = episods_df['us_viewers'].apply(lambda x: x * (10 ** 6
 # Drop unspokon scripts from scripts_df
 scripts_df = scripts_df[scripts_df['speaking_line'] == 'true']
 scripts_df.drop(columns = ['speaking_line'], inplace = True)
-scripts_df.rename(columns = {'spoken_words': 'raw_text'}, inplace = True)
+scripts_df.rename(columns = {'spoken_words': 'raw_text', 'raw_character_text': 'character', 'raw_location_text': 'location'}, inplace = True)
 
 
 scripts_df.to_csv('Data/Processed/simpsons_cleaned_script_lines.csv', index = False)
-characters_df.to_csv('Data/Processed/simpsons_cleaned_characters.csv', index = False)
 episods_df.to_csv('Data/Processed/simpsons_cleaned_episodes.csv', index = False)
-locations_df.to_csv('Data/Processed/simpsons_cleaned_locations.csv', index = False)
