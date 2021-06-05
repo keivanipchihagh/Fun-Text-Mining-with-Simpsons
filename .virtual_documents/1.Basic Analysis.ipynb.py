@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 import spacy
 from wordcloud import WordCloud
 
@@ -37,12 +37,12 @@ plt.ylabel('Characters')
 plt.show()
 
 
-vectorizer = CountVectorizer(stop_words = 'english')
-features = vectorizer.fit_transform(scripts_df[scripts_df['spoken_words'].isnull() == False]['spoken_words'])
+count_vectorizer = CountVectorizer(stop_words = 'english')
+features = count_vectorizer.fit_transform(scripts_df[scripts_df['spoken_words'].isnull() == False]['spoken_words'])
 
 # print(vectorizer.get_feature_names())
 
-freqs = zip(vectorizer.get_feature_names(), features.sum(axis = 0).tolist()[0])
+freqs = zip(count_vectorizer.get_feature_names(), features.sum(axis = 0).tolist()[0])
 sorted_freqs = sorted(freqs, key = lambda x: -x[1])
 print(sorted_freqs)
 
@@ -79,13 +79,28 @@ plt.axis("off")
 plt.show()
 
 
+tfidf_vectorizer = TfidfVectorizer(stop_words = nlp.Defaults.stop_words)
+features = tfidf_vectorizer.fit_transform(scripts_df[scripts_df['spoken_words'].isnull() == False]['spoken_words'])
+
+# print(tfidf_vectorizer.get_feature_names())
+
+freqs = zip(count_vectorizer.get_feature_names(), features.sum(axis = 0).tolist()[0])
+sorted_freqs = sorted(freqs, key = lambda x: -x[1])
+print(sorted_freqs)
 
 
+X, y = [], []
 
+for freq in sorted_freqs[:20]:
+    X.append(freq[0])
+    y.append(freq[1])
 
-
-
-
+fig = plt.figure(figsize = (6, 8))
+plt.barh(X[::-1], y[::-1])
+plt.title('Twenty Most Common Words')
+plt.xlabel('Frequency')
+plt.ylabel('Words')
+plt.show()
 
 
 
