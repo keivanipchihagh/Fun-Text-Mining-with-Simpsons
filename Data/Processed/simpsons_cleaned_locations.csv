@@ -1,0 +1,4460 @@
+id,normalized_name
+1,street
+2,car
+3,springfield elementary school
+4,auditorium
+5,simpson home
+6,kitchen
+7,shopping mall parking lot
+8,springfield mall
+9,the happy sailor tattoo parlor
+10,springfield nuclear power plant
+11,plant
+12,dermatology clinic
+13,laboratory
+14,circus of values
+15,moe tavern
+16,santa school
+17,santa workshop
+18,workshop
+19,personnel office
+20,springfield downs dog track
+21,springfield downs
+22,paddock
+23,springfield down
+24,springfield downs parking lot
+25,simpson living room
+26,springfield elementary school playground
+27,classroom
+28,skinner office
+29,homer car
+30,new school
+31,opera house
+32,old school
+33,new classroom
+34,school building
+35,simpson back porch
+36,bus
+37,road
+38,conference room
+39,coffee room
+40,bar
+41,berger burgers
+42,refrigerator
+43,bart bedroom
+44,simpson backyard
+45,simpson neighborhood
+46,master bedroom
+47,living room
+48,springfield town hall
+49,city council chambers
+50,park
+51,burns office
+52,a bumpy dirt road
+53,burns manor
+54,another part of the road
+55,burns back yard
+56,nursery
+57,backyard
+58,dirt road
+59,simpson dining room
+60,neighbor 1 house
+61,williams house
+62,williams den
+63,williams lawn
+64,another house
+65,pawn shop
+66,family therapy center
+67,dr monroe office
+68,dr monroe laboratory
+69,waiting room
+70,street neighbor 2 house
+71,school bus
+72,near school entrance
+73,playground
+74,room
+75,staircase
+76,springfield elementary school hallway
+77,springfield elementary school cafeteria
+78,mortuary
+79,springfield retirement castle
+80,grampa room at springfield retirement castle
+81,outside herman military antiques
+82,herman military antiques
+83,bart class in school
+84,bart treehouse
+85,city park
+86,another neighborhood street
+87,neighborhood street
+88,parading down elm street
+89,base of tree below bart treehouse
+90,springfield library
+91,simpson bathroom
+92,bathroom
+93,den
+94,foyer
+95,music class
+96,lunchroom
+97,exercise room
+98,lisa bedroom
+99,bridge
+100,simpson master bedroom
+101,noiseland arcade
+102,marge car
+103,springfield elementary school yard
+104,jazz hole nightclub
+105,simpson front yard
+106,bob rv round-up
+107,inside the ultimate behemoth
+108,inside credit office
+109,back of the rv lot
+110,freeway
+111,a narrow dirt road
+112,van
+113,overhead shot of van
+114,near the edge of cliff
+115,marge and lisa campsite
+116,deep woods
+117,the girls campsite
+118,the woods
+119,base of waterfall
+120,bear cave
+121,somewhere in woods
+122,forest
+123,a campground near the bear cave
+124,a clearing in the woods
+125,the deep woods
+126,creek
+127,along the interstate
+128,outside the bear cave
+129,science laboratory
+130,streets
+131,first church of springfield
+132,sunday school classroom
+133,house
+134,movie theatre
+135,theatre
+136,kwik-e-mart
+137,hallway
+138,various street locations
+139,old folk home
+140,simpson kitchen
+141,girdles n such fancy lingerie
+142,the jock shoppe
+143,the singing sirloin
+144,barney bowlarama
+145,maggie bedroom
+146,simpson foyer
+147,coffee shop
+148,yard
+149,jacques apartment
+150,lunchroom at the power plant
+151,simpson car
+152,public mailbox
+153,master bathroom
+154,party room
+155,the rusty barnacle
+156,springfield elementary school library
+157,library near xerox machine
+158,lewis house
+159,executive office
+160,rev lovejoy study
+161,aerobic studio
+162,quick-e-mart
+163,kwik-e-mart parking lot
+164,intersection
+165,barney apartment
+166,florence of arabia
+167,girlesque
+168,foxy boxing
+169,club mud
+170,ye olde off-ramp inn
+171,sapphire lounge
+172,upstairs hallway
+173,downstairs hallway
+174,boys bathroom
+175,girls bathroom
+176,springfield airport
+177,charter flight
+178,tirana albania airport
+179,french countryside
+180,chateau maison
+181,french mountainside
+182,vineyards
+183,plutonium isolation module
+184,albanian intelligence headquarters
+185,winery
+186,country road
+187,town
+188,flanders home
+189,sidewalk cafe
+190,tv studio
+191,krusty apartment
+192,springfield police station
+193,springfield courthouse steps
+194,courtroom
+195,springfield high school football field
+196,sideshow bob dressing room
+197,television station
+198,jailhouse
+199,radio station
+200,howard flowers
+201,rubber baby buggy bumper babysitting service
+202,chez pierre restaurant
+203,restaurant
+204,motel room
+205,ye olde off-ramp inn motel room
+206,public pay phone
+207,infirmary
+208,outside bart window
+209,springfield county
+210,simpson hallway
+211,neighborhood
+212,continental congress philadelphia
+213,simpson basement
+214,snowy street
+215,winfield house
+216,springfield
+217,jake unisex hair palace
+218,karl elegant apartment
+219,huge old house like in the shining
+220,living room of house
+221,spacecraft
+222,space ship
+223,spaceship galley
+224,chamber
+225,marge homer room
+226,sunny sky
+227,security clearance booth at power plant
+228,cooling tower
+229,other part of nuclear plant
+230,rolls royce
+231,studio
+232,stadium
+233,ball park
+234,press box
+235,parking lot
+236,ballpark
+237,owner office
+238,highway
+239,capital city
+240,hotel room
+241,capital city cap dome
+242,cap city dome
+243,locker room
+244,cap dome
+245,lovejoy bedroom
+246,family fun center
+247,miniature golf course
+248,library
+249,library stacks
+250,lake springfield
+251,top of mount springfield
+252,miniature golf
+253,simpson and flanders houses
+254,rich neighborhood
+255,skid row
+256,springfield plasma center
+257,plasma center
+258,rescue mission
+259,mission
+260,dining room
+261,springfield speedway
+262,speedway
+263,speedway stands
+264,springfield general hospital
+265,emergency waiting area
+266,hospital corridor
+267,hospital ward
+268,martin prince back yard
+269,sidewalk
+270,springfield street
+271,springfield gorge
+272,springfield hospital hallway
+273,garage
+274,springfield elementary school grounds
+275,van houten home
+276,janey house
+277,itchy scratchy international
+278,i s international
+279,chairman i s international office
+280,art museum
+281,various
+282,springfield museum
+283,a busy downtown street
+284,same scene
+947,arab city
+285,the office of lionel hutz
+286,the law office of lionel hutz
+287,waiting room of dr nick riviera office
+288,dreamlike suburban springfield street
+289,burns car
+290,large public park
+291,glass-enclosed consultation room
+292,glass booth
+293,burns living room
+294,the happy sumo
+295,the happy sumo corridor
+296,tatami room
+297,hospital
+298,bedroom
+299,flanders door
+300,side of the highway
+301,jail cellblock
+302,jail
+303,view out barney window
+304,barney car
+305,police captain office
+306,dr hibbert office
+307,springfield high school
+308,boy bathroom
+309,detention hall
+310,homer house
+311,guidance counselor office
+312,shelbyville high school
+313,marge bedroom
+314,marge house
+315,limo
+316,springfield high school gym
+317,inspiration point
+318,foot mount sinai
+319,sunday school
+320,grocery store
+321,quickie mart
+322,dept of motor vehicles
+323,selma car
+324,football field
+325,patty and selma apartment
+326,hallway outside selma and patty apt
+327,springfield revolving restaurant
+328,movie theater
+329,apartment
+330,springfield jewelry store
+331,corporate headquarters
+332,aztec theater
+333,carnival grounds
+334,hospital room
+335,shelbyville orphanage
+336,powell estate
+337,michigan highway
+338,mansion
+339,estate grounds
+340,powell motors corporate headquarters
+341,powell showroom theatre
+342,showroom theatre
+343,canine college
+344,simply shoes
+345,simpy shoes
+346,springfield stardust ballroom
+347,ice cream parlor
+348,beach
+349,grandma world
+350,discount lion safari
+351,cemetery
+352,taxi
+353,lake
+354,amusement park
+355,casino
+356,plato republic
+357,home
+358,mt splashmore
+359,top of h 2 whoa
+360,h 2 whoa tube
+361,control room
+362,high school art class
+363,young marge bedroom
+364,springfield community college registration
+365,community college registration
+366,professor lombardo class
+367,community college painting studio
+368,old armory hall
+369,english country manor
+370,springfield art museum
+371,elementary - bart classroom
+372,museum
+373,simpson house - basement staircase
+374,apartment building
+375,train station
+376,church foyer
+377,mountain road
+378,cafe
+379,retreat
+380,retreat cabin
+381,supermarket
+382,dormitory cabin
+383,catfish lake
+384,simpson cabin
+385,school bus garage
+386,bait shop
+387,springfield convention center
+388,krusty burger
+389,bouvier house
+390,quik-e-mart
+391,springfield bank
+392,beauty parlor
+393,mrs glick house
+394,world world i battlefield
+395,glick house
+396,the android dungeon baseball card shop
+397,hill near nuclear power plant
+398,bloodmobile
+399,back of bloodmobile
+400,burns private fronton
+401,corner mailbox
+402,post office
+403,smithers office
+404,burns study
+405,plunderer pete
+406,new bedlam rest home for the emotionally interesting
+407,kearny house
+408,krusty house
+409,springfield jail
+410,evergreen terrace
+411,bank
+412,springfield national forest
+413,veterans of popular wars hall
+414,hall
+415,legion
+416,airplane
+417,cockpit
+418,cabin
+419,airport
+420,hotel
+421,elevator
+422,white house
+423,bureau of engraving and printing
+424,natl air and space museum
+425,washington monument
+426,capital
+427,washington dc
+428,wb howe memorial
+429,lincoln memorial
+430,jefferson memorial
+431,capital building
+432,kennedy center
+433,senator office
+434,kennedy center ballroom
+435,flanders yard
+436,store
+437,karate school
+438,leftorium
+439,bus stop
+440,road on the way to school
+441,bart classroom
+442,springfield elementary school bus stop
+443,the ah fudge chocolate factory in shelbyville
+444,chocolate factory orientation room
+445,ah fudge chocolate factory
+446,legitimate businessman social club
+447,club
+448,pizza delivery truck
+449,downtown springfield
+450,deathhouse
+451,springfield prison
+452,death chamber
+453,springfield county jail
+454,skinner garage
+455,skinner home
+456,courthouse steps
+457,homer workstation
+458,stop n go gas station
+459,random shots of springfield nuclear power plant
+460,shelbyville nuclear power plant
+461,basketball court
+462,krusty the clown show
+463,backstage
+464,backstage at the krusty show
+465,miss pennycandy office
+466,pennycandy office
+467,krusty dressing room
+468,lower east side of springfield
+469,yeshiva classroom
+470,krustofsky home
+471,grossingers
+472,downtown street
+473,bus station
+474,rabbi krustofsky bedroom
+475,rev lovejoy office
+476,temple beth springfield
+477,rabbi office
+478,yiddle shop
+479,temple
+480,krusty office
+481,izzy deli
+482,temple hallway
+483,steambath
+484,gammill home
+485,krusty set
+486,marrakesh
+487,bazaar area
+488,camel stall
+489,marrakesh airport
+490,simpsons store
+491,record store
+492,spaceship
+493,springfield town square
+494,aerial view of springfield
+495,main street
+496,marvin monroe office
+497,secret passageway
+498,springfield elementary auditorium
+499,king toot music store
+500,phineas q butterfat 5600 flavors ice cream parlor
+501,pet shop
+502,pony ranch
+503,grateful gelding stables
+504,employee credit union
+505,vhs village
+506,fabrizio salon
+507,national fatherhood institute
+508,dr hibbert waiting room
+509,soapbox derby track
+510,wooded area
+511,flaming moe
+512,tipsy mcstagger research lab
+513,springfield bus terminal
+514,the aristocrat
+515,moe bedroom
+516,walnut street
+517,burns private bathroom
+518,meeting room
+519,the land of chocolate
+520,fun center
+521,free game castle
+522,grampa house
+523,jewelry store
+524,wedding chapel
+525,chapel
+526,darkened room
+527,olde springfield towne
+528,ye old candlemaker shop
+529,suburban home
+530,pitiless pup attack dog school
+531,gulp n blow
+532,warehouse
+533,barber shop
+534,dance studio
+535,wall e weasel
+536,springfield elementary school back field
+537,well
+538,wee monsieur
+539,security station
+540,springfield public library
+541,the gilded truffle restaurant
+542,south pacific island
+543,living room in france
+544,mt springfield
+545,nick bowling shop
+546,the other nicks
+547,springfield memorial bridge
+548,marge station wagon
+549,traffic copter
+550,smoke filled room
+551,press conference
+552,patty and selma car
+553,rancho relaxo
+554,patty and selma bedroom
+555,hair salon
+556,patty and selma apartment building
+557,marge train
+558,springfield elementary - bart classroom
+559,edna apartment
+560,lovejoy home
+561,theater
+562,springfield towers
+1232,london
+563,millionaire club
+564,baseball card show
+565,woods
+566,southern mansion
+567,night club
+568,ball field
+569,springfield suburbs
+570,springfield city jail
+571,springfield mystery spot
+572,softball diamond
+573,mrs krabappel classroom
+574,miss hoover classroom
+575,iowa non-international airport
+576,national testing center
+577,springfield elementary school psychologist office
+578,dream cloud
+579,lil ludwig music school
+580,winfield residence
+581,squad car
+582,who to know motel
+583,police car
+584,fleeing car
+585,warehouse district
+586,outdoor parking lot
+587,alley
+588,teachers lounge
+589,detention room
+590,newsroom
+591,the krusty the clown show
+592,springfield animal hospital
+593,animal hospital
+594,springfield barber college
+595,dog pound
+596,springfield googolplex theatres
+597,movie theatre 1
+598,movie theatre 6
+599,country bar
+600,the beer -n- brawl
+601,hospital operating room
+602,trailer park
+603,kudd radio station
+604,the corpulent cowboy
+605,recording studio
+606,lurleen trailer
+607,lurleen dressing room
+608,awards show set
+609,prison gate
+610,sideshow mel apartment
+611,reception hall
+612,shelbyville falls hotel
+613,shelbyville hotel suite
+614,springfield coliseum
+615,coliseum
+616,concert arena
+617,arena
+618,ext school bus stop
+619,tire yard
+620,spinal tap tour bus
+621,spinal tour bus
+622,department of motor vehicles
+623,serpentine course
+624,springfield elementary school parking lot
+625,simpson garage
+626,testing course
+627,pool
+628,martin room
+629,milhouse bedroom
+630,st jerome catholic school
+631,medical testing area
+632,testing area
+633,hobo jungle
+634,herb estate
+635,powell motors showroom
+636,springfield civic center
+637,train yard
+638,train
+639,furniture store
+640,baby expo
+641,kremlin
+642,simpson
+643,springfield elementary school bell tower
+644,front hallway
+645,kamp krusty
+646,club house
+647,camp mess hall
+648,mr black cabin
+649,bunk house
+650,center court wimbledon
+651,nature trail
+652,arts crafts center
+653,audience
+654,fat kids compound
+655,springfield community center
+1233,england
+656,rehearsal room
+657,day care center
+658,community center
+659,alleyway
+660,womb
+661,front yard
+662,spookhouse
+663,caricaturist booth
+664,carnival
+665,hotel ballroom
+666,beauty salon
+667,salon
+668,blimp
+669,springfield wax museum
+670,springfield dock
+671,springfield military base
+672,helicopter
+673,parade grounds
+674,college football game
+675,mayor office
+676,house of evil
+677,field
+678,malibu stacey doll house
+679,springfield harbor
+680,dock
+681,ship
+682,skull island
+683,island
+684,jungle
+685,giant wall
+686,a springfield theater
+687,another theater
+688,empire state building
+689,biplane
+690,pet cemetery
+691,space
+692,starship engine room
+693,chippendale-type dance club
+694,homer living room
+695,springfield elementary schoolyard
+696,restaurant parking lot
+697,the spruce caboose
+698,grampa car
+699,las vegas
+700,las vegas hotel stage show
+701,krustylu studios
+702,winfield and simpson houses
+703,winfield basement
+704,suburban house
+705,powers house
+706,two guys from kabul
+707,the frying dutchman
+708,courthouse
+709,hawaiian island
+710,big top
+711,used car lot
+712,car show
+713,condominium complex
+714,mc mahon and tate advertising agency
+715,agency
+716,woman house
+717,mountain
+718,widow peak turnoff
+719,truck
+720,small apartment
+721,realtor office
+722,rendering plant
+723,harbor
+724,yet another house
+725,truck cab
+726,gas station
+727,hospital emergency room
+728,emergency room
+729,cathedral
+730,merry widow insurance company
+731,insurance company
+732,springfield temple
+733,springfield buddhist temple
+734,medical library
+735,operating theater
+736,college frat house
+737,hospital waiting room
+738,intensive care corridor
+739,springfield park
+740,springfield county court house
+741,monorail conductor class
+742,monorail construction site
+743,monorail cockpit
+744,lanley ofc
+745,office
+746,north haverbrook
+747,monorail
+748,springfield central monorail platform
+749,monorail dais
+750,monorail platform
+751,monorail engine
+752,monorail cabin
+1695,sportacus
+753,command center
+754,hall of records
+755,sky
+756,north haverbrook airport
+757,doctors office
+758,anchor store
+759,simpson station wagon
+760,diner
+761,the lucky stiff funeral home
+762,funeral parlor
+763,funeral parlor office
+764,dating service
+765,gypsy shack
+766,cryogenics bank
+767,sperm bank
+768,selma house
+769,selma apartment
+770,simpson driveway
+771,duff gardens entrance
+772,beer hall of the presidents
+773,duff garden souvenir shop
+774,little land of duff
+775,duff gardens
+776,security office
+777,soccer field
+778,simpson tv room
+779,bathtub
+780,bigger brother agency
+781,agency office
+782,springfield stadium
+783,baseball field
+784,sky over springfield
+785,tenement building
+786,pepi street
+787,pepi apartment
+788,marine world
+789,aquarium
+790,kbbl radio
+791,lunch room
+792,wiggum home
+793,adult movie theater
+794,president box
+795,springfield elementary school auditorium
+796,auditorium stage door
+797,nuclear plant parking lot
+798,duff brewery
+799,duff museum
+800,duff brewery entrance
+801,all creatures great and cheap
+802,driver training school
+803,church basement room
+804,science fair
+805,baseball stadium
+806,alch-anon meeting
+807,springfield power works
+808,dentist office
+809,union hall
+810,nuclear plant hallway
+811,springfield shopper building
+812,red light district
+813,factory
+814,simpson hut
+815,hardware store
+816,cartoon barber shop
+817,itchy scratchy studios
+818,roger meyers office
+819,bart and lisa bedroom
+820,gym
+821,gymnasium
+822,writers office
+823,animation building
+824,adult education center
+825,grampa office
+826,springfield high school classroom
+827,rod and todd bedroom
+828,civil defense shelter
+829,defense shelter
+830,cafeteria
+831,religious school
+832,40 style night club a la the movie cabaret
+833,security room
+834,springfield fairgrounds
+835,springfield city limits
+836,fields around springfield
+837,fallout shelter
+838,roof top corner 12th and main
+839,bart body
+840,i cant believe it a law firm
+841,sauna
+842,podium
+843,lovejoy house
+844,courthouse hallway
+845,springfield women prison
+846,trailer
+847,johnny carson house
+848,johnny carson backyard
+849,racetrack
+850,kbbl studios
+851,gabbo show
+852,tour bus
+853,playboy mansion
+854,elizabeth taylor house
+855,krusty theater
+856,stage
+857,building
+858,springfield swap meet
+859,swap meet
+860,rehearsal hall
+861,moe bathroom
+862,boat
+863,kennedy airport
+864,statue of liberty
+865,civic auditorium
+866,grammys
+867,hotel suite
+868,hotel balcony
+869,bldg
+870,someone room
+871,prison cell
+872,parole board
+873,hearing room
+874,sideshow bob room
+875,private investigator office
+876,springfield bar
+877,fbi office
+878,simpson convertible
+879,houseboat
+880,marina
+881,old simpson home
+882,shore
+883,safety chamber
+884,basement of nuclear power plant
+885,simulator van
+886,guidance counselor
+887,admissions office
+888,board of overseers conference room
+889,springfield university
+890,construction site
+891,springfield am
+892,springfield university entrance
+893,springfield memorial hospital
+894,ballroom
+895,nuclear power plant ballroom
+896,burns warehouse
+897,milk plant
+898,burns bedroom
+899,night gallery-type set
+900,fashion show
+901,hell
+902,springfield elementary school bus
+903,alien space ship
+904,flanders car
+905,ambulance
+906,castle
+907,burns castle
+908,secret room
+909,burns banquet hall
+910,simpson house
+911,soda machine
+912,a different hallway
+913,lenny house
+914,honky-tonk roadhouse
+915,sh_t kickers
+916,underground club
+917,the hate box
+918,secluded meadow
+919,ruth car
+920,trail
+921,springfield sign
+922,trail night
+923,chief wiggum police car
+924,wiggum car
+925,grand chasm
+926,dragnet-style limbo
+927,limbo
+928,overpass
+929,news set
+930,float
+931,outside the arcade
+932,springfield street corner
+933,outside the kwik-e-mart
+934,busy main street
+935,seedy springfield street
+936,freighter
+937,patrol meeting room
+938,homer bedroom
+939,the side of the river
+940,the river
+941,a sunny beach
+942,out at sea
+943,river
+944,raft
+945,ocean
+946,offshore oil rig
+948,arab nightclub
+949,hmo
+950,optometrist office
+951,dermatologist office
+952,podiatrist office
+953,internist office
+954,phone booth
+955,telephone booth
+956,homer room
+957,homer bathroom
+958,homer hotel room
+959,convention hall
+960,homer booth
+961,chinese restaurant
+962,chinese restaurant kitchen
+963,springfield boardwalk
+964,gong show
+965,mr burns casino
+966,skinner living room
+967,suburban springfield street
+968,smartline studio
+969,elegant mansion
+970,box factory
+971,channel 6 studios
+972,street corner
+973,krusty bathroom
+974,supermarket grand opening
+975,stage door
+976,little girl bedroom
+977,talkshow
+978,city streets
+979,homer hospital room
+980,channel 6 tv station
+981,the van
+982,simpsons
+983,monstromart
+984,desolate scrubland
+985,himalayas
+986,india
+987,airport in india
+988,indian plain
+989,mountain trail
+990,kwik-e-mart birthplace
+991,center for geriatric medicine
+992,seniorville trolley
+993,kidstown usa
+994,huge industrial complex
+995,malibu stacy factory
+996,someplace
+997,apartment complex
+998,springfield gables street
+999,stacy lovell house
+1000,kent brockman house
+1001,somewhere
+1002,mission control
+1003,nasa
+1004,cape canaveral base
+1005,hotel banquet room
+1006,simpsons base kitchen
+1007,nasa training facility
+1008,nasa gym
+1009,nasa corridor
+1010,cape canaveral
+1011,launch pad
+1012,simpsons base house living room
+1013,nasa mission control
+1014,simpsons base housing living room
+1015,stadium box office
+1016,shelbyville stadium
+1017,springfield locker room
+1018,locker room exit
+1019,flanders rec room
+1020,flanders dining room
+1021,shelter
+1022,flanders station wagon- day
+1023,boat launch
+1024,campsite
+1025,university clock tower
+1026,flanders master bedroom
+1027,flanders driveway
+1028,roadside
+1029,first church
+1030,kbbl
+1031,arboretum
+1032,flanders bedroom
+1033,springfield streets
+1034,amphitheater
+1035,another amphitheater
+1036,peanut factory
+1037,quiet springfield street
+1038,springfield animal refuge
+1039,another basement room
+1040,municipal courtroom
+1041,sports car
+1042,cheap motel
+1043,basement room
+1044,next room
+1045,basement tv monitor room
+1046,springfield laundromat
+1047,italian restaurant
+1048,fort springfield
+1049,prison bus
+1050,springfield elementary school crime lab
+1051,riverbank
+1052,old abandoned club house
+1053,auction house
+1054,desolate road
+1055,quimby compound
+1056,quimby compound front yard
+1057,quimby mansion
+1058,jury room
+1059,springfield palace hotel
+1060,bouvier apartment
+1061,generation x group house
+1062,mountaintop
+1063,senior citizen minibus
+1064,adult education annex
+1065,old southern mansion
+1066,simpson front porch
+1067,attic
+1068,wax museum
+1069,pool emporium
+1070,pool sharks
+1071,dr hibbert examining room
+1072,martin prince backyard
+1073,jimmy stewart character house
+1074,flanders front yard
+1075,flanders living room
+1076,lisa classroom
+1077,springfield elementary school band room
+1078,drainage tunnel
+1079,allison living room
+1080,allison playroom
+1081,honey factory
+1082,shorty
+1083,street in small town in amish country
+1084,freeway checkpoint
+1085,checkpoint
+1086,motel
+1087,itchy scratchy land
+1088,itchy scratchy land park n fly
+1089,itchy scratchy land helicopter
+1090,itchy scratchy land entrance
+1091,itchy scratchy hotel restaurant
+1092,itchy scratchy hotel
+1093,parents island
+1094,itchy 70 disco
+1095,itchy scratchy gift shop
+1096,scratchy
+1097,control complex
+1098,control center
+1099,gift shop
+1100,detention area
+1101,repair room
+1102,bird sanctuary
+1103,entrance euro itchy scratchy land
+1104,public library
+1105,mrs mcfearly house
+1106,republican hq
+1107,sideshow bob limousine
+1108,luncheonette
+1109,civic center
+1110,polling place
+1111,parking structure
+1112,burns mountain retreat
+1113,caretakers quarters
+1114,grand ballroom
+1115,first floor
+1116,pantry
+1117,chief wiggum office
+1118,groundskeeper willie shack
+1119,shack
+1120,basement
+1121,time vortex
+1122,springfield jungle
+1123,high tech room
+1124,corridor
+1125,springfield primeval jungle
+1126,cafeteria storeroom
+1127,kitchen door
+1128,neighborhood playground
+1129,seashore
+1130,windy hilltop
+1131,gym teacher office
+1132,springfield skating rink
+1133,hockey rink
+1134,the steps of the capitol
+2172,bushes
+1135,monster island
+1136,skating rink locker room
+1137,skating rink
+1138,apu apartment
+1139,ice rink
+1140,candy convention
+1141,rock bottom studio
+1142,underwater wonderland
+1143,springfield cable station
+1144,public access studio
+1145,college dorm
+1146,huge bookstore
+1147,bookstore
+1148,romantic motel
+1149,appliance store
+1150,road out of town
+1151,old simpson farmhouse
+1152,simpson barn
+1153,simpson farmhouse
+1154,farmhouse
+1155,upscale bar
+1156,cheers-like bar
+1157,gay bar
+1158,the little black box
+1159,airline headquarters
+1160,airplane runway
+1161,video store
+1162,psychiatrist waiting room
+1163,dr zweig office
+1164,psychiatric center
+1165,lobby
+1166,marge childhood home
+1167,desolate planet
+1168,marge front yard
+1169,corn field
+1170,airport runway
+1171,copter
+1172,lenny and carl workstation
+1173,temple roof
+1174,stonecutter tunnel
+1175,baskin robbins
+1176,stonecutters lodge
+1177,a hospital delivery room
+1178,fighter cockpit
+1179,fighter
+1180,observatory
+1181,house of representatives
+1182,house of representative
+1183,flanders backyard
+1184,bomb shelter
+1185,krusty klown kollege
+1186,luigi
+1187,clown college
+1188,gangster car
+1189,car lot
+1190,switzerland village
+1191,plastic surgeons office
+1192,gangsters car
+1193,south pole
+1194,banana republic
+1195,fashionable buenos aires street
+1196,volcanic island
+1197,australia
+1198,australian house
+1199,earth
+1200,australian airport
+1201,embassy
+1202,embassy later
+1203,cultural center
+1204,pub
+1205,parliament house
+1206,ambassador office
+1207,discount brokerage
+1208,corporate boardroom
+1209,swimming pool
+1210,springfield elementary school gym
+1211,first national bank of springfield
+1212,doorway
+1213,ballet class
+1214,shot
+1215,limousine
+1216,driver test car
+1217,springfield performing arts center
+1218,performing arts center
+1219,springfield river
+1220,hospital bed
+1221,ny city
+1222,desert
+1223,springfield hotel
+1224,committee room
+1225,hotel hallway
+1226,dorothy chandler pavilion
+1227,meadow
+1228,friar wiggum fantastical beastarium
+1229,tent
+1230,lisa dorm
+1231,dorm room
+1234,parkfield manor
+1235,skyscraper
+1236,otto cab
+1237,new bedroom
+1238,springfield meadow
+1239,bride tent
+1240,main tent
+1241,lisa tent
+1242,groom tent
+1243,renaissance fair
+1244,chief wiggum bedroom
+1245,pet store
+1246,dog racing track lobby
+1247,track
+1248,burns gate
+1249,burns bathroom
+1250,laundry chute
+1251,basement laundry room
+1252,battlefield entrance
+1253,historical site
+1254,battlefield re-creation
+1255,gym class
+1256,elegant living room
+1257,another classroom
+1258,hallway outside skinner office
+1259,springfield elementary school prison
+1260,nurses office a little later
+1261,french classroom
+1262,operating room
+1263,hospital room a few hours later
+1264,hospital hallway
+1265,springfield bridge
+1266,murphy hospital room
+1267,the jazz hole
+1268,steve allen show
+1269,swanky department store
+1270,cosby show living room
+1271,bleeding gums murphy hospital room
+1272,springfield cemetery day
+1273,wjazz
+1274,jebediah springfield park
+1275,small park
+1276,grassy knoll
+1277,city street
+1278,springfield police academy
+1279,obstacle course
+1280,shooting range
+1281,driving course
+1282,springfield city street
+1283,minor league baseball field
+1284,lemon tree area
+1285,borderland
+1286,shelbyville street
+1287,shelbyville park
+1288,shelbyville hillside
+1289,flanders rv
+1290,shelbyville bluffs
+1291,big cat building
+1292,hill
+1293,grassy hill
+1294,impound lot
+1295,shelbyville hospital
+1296,rv
+1297,springfield elementary school roof
+1298,burns oil site
+1299,town hall steps
+1300,front of town hall
+1301,smithers apartment
+1302,nightclub
+1303,paddy wagon
+1304,back of comic book store
+1305,some nerd house
+1306,hollywood studio
+1307,producer trailer
+1308,movie set
+1309,shoot location
+1310,milhouse starwagon
+1311,editing trailer
+1312,editing bay
+1313,slot car heaven
+1314,abandoned factory
+1315,hollywood and vine
+1316,springfield bentley dealer
+1317,child welfare board
+1318,mingled waters health spa
+1319,swartzwelder county courthouse
+1320,family skills class
+1321,road near riverbank
+1322,establishing
+1323,springfield central park
+1324,uncle moe family feedbag
+1325,181st street
+1326,gramma van houten apartment
+1327,storytown village
+1328,the three bears house
+1329,train ride
+1330,petting zoo
+1331,sheep pen
+1332,slaughterhouse exit
+1333,kwik-e-mart roof
+1334,lard lad donuts
+1335,springfield strip
+1336,rooftop of channel 6
+1337,big and tall men shop
+1338,van brunt churchill ad agency
+1339,ad agency
+1340,remote highway out of town
+1341,ventura boulevard
+1342,dr nick rivera office
+1343,dr nick rivera outer office
+1344,vast waistband
+1345,remote idyllic corn field
+1346,litter-strewn highway
+1347,springfield highway
+1348,top of springfield falls
+1349,springfield cemetery
+1350,homer boyhood home
+1351,germ warfare lab
+1352,springfield post office
+1353,springfield airport cab stand
+1354,patty and selma living room
+1355,isolated stretch of highway
+1356,isolated highway
+1357,springwood minimum security prison
+1358,air force base
+1359,duff blimp exhibit
+1360,f-15 fighter display
+1361,f-15 fighter
+1362,colonel washroom
+1363,air show
+1364,channel ocho
+1365,duff blimp
+1366,civil defense shack
+1367,harrier jet
+1368,wright bros plane
+1369,fighter jet
+1370,springfield badlands
+1371,springfield civic auditorium
+1372,matt groening office
+1373,indian palace
+1374,try-n-save
+1375,burns outer office
+1376,bush house
+1377,bush porch
+1378,elks lodge
+1379,storm drain
+1380,sewer drain
+1381,ogdenville outlet mall
+1382,electronics outlet
+1383,appliance zone
+1384,fashion mart
+1385,springfield opera house
+1386,springfield glen country club
+1387,golf course
+1388,remote highway
+1389,law firm
+1390,haunted house
+1391,downtown
+1392,irs plaza
+1393,irs building
+1394,krusty street
+1395,krusty mansion
+1396,base of mountain
+1397,springfield shores
+1398,springfield marina - bait tackle shop
+1399,bait tackle shop
+1400,springfield marina - slip 8
+1401,beach - a while later
+1402,springfield historical society
+1403,historical society
+1404,copy jalopy
+1405,graveyard
+1406,springfield dragstrip
+1407,burns limo
+1408,tropical beach
+1409,tropical night club
+1410,business district
+1411,channel 6 commentator booth
+1412,bumtown section
+1413,an even worse looking part of bumtown
+1414,seedy hotel
+1415,chester house
+1416,springfield dmv
+1417,30-style show-business restaurant
+2173,jail cell
+1418,the pimento grove
+1419,troy house
+1420,trendy restaurant
+1421,route 18 flea-market and drive-in
+1422,capitol city
+1423,springfield botanical gardens
+1424,botanical gardens
+1425,delorean
+1426,insinutainment tonight studios
+1427,troy living room
+1428,troy bedroom
+1429,cracker factory
+1430,salting room
+1431,springfield commodities exchange
+1432,springfield art-house theater
+1433,street outside moe
+1434,bart car
+1435,martin house
+1436,nelson house
+1437,highway out of springfield
+1438,site of the world fair
+1439,downtown knoxville
+1440,downtown knoxville street
+1441,knoxville bonded courier service
+1442,hong kong international airport
+1443,cargo plane
+1444,busy highway
+1445,sanjays house
+1446,bumblebee man house
+1447,jailbird car
+1448,sewer pipe
+1449,children barber shop
+1450,snippy longstocking
+1451,gravesite
+1452,cemetery gate
+1453,caracas
+1454,villa
+1455,abandoned german castle
+1456,mayor quimby office
+1457,quimby waiting room
+1458,quimby office
+1459,quimby outer office
+1460,great grampa simpsons home
+1461,new york harbor
+1462,calcutta technical institute
+1463,springfield heights institute of technology
+1464,computer lab
+1465,dark alley
+1466,immigration service
+1467,suicide notes
+1468,clearing in the woods
+1469,hullabaloooza
+1470,hullabaloooza fairgrounds
+1471,hullabaloooza stage
+1472,veterinarian office
+1473,beach house
+1474,strip mall
+1475,teejay zaymart
+1476,downtown pwagmattasquarmsettport
+1477,beach boardwalk
+1478,under the boardwalk
+1479,far side of parking lot
+1480,beach in front of the house
+1481,convenience store
+1482,kids beach party
+1483,outskirts of carnival
+1484,margarine tub
+1485,springfield pond
+1486,saucer
+1487,washington dc - republican national committee
+1488,washington dc - white house
+1489,dole campaign stop
+1490,springfield auditorium
+1491,washington dc - us capitol
+1492,smithers house
+1493,model home
+1494,cypress creek
+1495,new simpson house
+1496,globex corporation
+1497,globex
+1498,cypress creek elementary school
+1499,hallway outside the classroom
+1500,miscellaneous etc
+1501,springfield gym
+1502,back roads
+1503,car wash
+1504,springfield penitentiary
+1505,historic mill
+1506,new haven station
+1507,burns private railroad car
+1508,rural roadside
+1509,natural history museum
+1510,costume shop
+1511,oil spill beach
+1512,spooky victorian house
+1513,burlesque house
+1514,upscale kitchen store
+1515,stoner pot palace
+1516,casa nova
+1517,southern cracker
+1518,luann house
+1519,county court house
+1520,prof frink lab
+1521,nelson room
+1522,springfield observatory
+1523,streets of springfield
+1524,flanders former house
+1525,new flanders house
+1526,calmwood mental hospital
+1527,insane asylum
+1528,doctor foster house
+1529,flanders booth
+1530,observation room
+1531,fairgrounds
+1532,chili cook-off
+1533,hallucinatory desert
+1534,hallucination
+1535,bob all-night furniture store
+1536,waterfront district
+1537,stormy seacoast
+1538,lighthouse control room
+1539,lighthouse
+1540,open field
+1541,fbi building
+1542,police lineup area
+1543,government lab
+1544,back room
+1545,springfield field
+1546,municipal house of pancakes
+1547,springfield baseball stadium
+1548,springfield docks
+1549,deserted stretch of highway
+1550,mountains
+1551,nearby picnic area
+1552,mountain base
+1553,nature center
+1554,mountain top
+1555,snowbank above buried cabin
+1556,tunnel
+1557,buried cabin
+1558,ranger station
+1559,rocket cabin
+1560,bart
+1561,mall conference room
+1562,the androids dungeon and baseball card shop comic book store
+1563,cockamamie
+1564,downtown streets
+1565,sha-boom ka-boom cafe
+1566,springfield freeway
+1567,ajax steel mill
+1568,moe pick-up
+1569,outskirts of springfield
+1570,gate to santa village
+1571,santa village
+1572,road to springfield
+1573,springfield penitentiary chapel
+1574,cecil brownstone apartment
+1575,springfield river gorge
+1576,springfield dam site
+1577,construction trailer
+1578,terwilliger apartment
+1579,dam site
+1580,dam
+1581,water-filled drainpipe
+1582,water pipe
+1583,top of dam
+1584,dam overlook
+1585,center of dam
+1586,observation post
+1587,tv room
+1588,south street squidport
+1589,dr nick rivera walk-in clinic
+1590,hibbert home
+1591,springfield city dump
+1592,duff bottling plant
+1593,moe pet shop
+1594,city dump
+1595,dump
+1596,rear of bowling alley
+1597,underground cross-section
+1598,atmospheric diner
+1599,superstore
+1600,martin back yard
+1601,martin birthday party
+1602,martin playhouse
+1603,channel six newsroom
+1604,springfield pine barrens
+1605,springfield dog park
+1606,repo depot
+1607,modest springfield house
+1608,mitchell house
+1609,street in front of mitchell house
+1610,uriah heap recycling center
+1611,burns former office
+1612,apartment bldg
+1613,city bus
+1614,springfield bay
+1615,recycling center
+1616,recycling plant
+1617,lil lisa recycling plant
+1618,residential street
+1619,springfield dump
+1620,lovejoy kitchen
+1621,lovejoy basement
+1622,eiffel tower
+1623,mr sparkle detergent factory
+1624,lonely highway
+1625,donny discount gas
+1626,springfield zoo
+1627,elsewhere in the zoo
+1628,baboon county usa
+1629,35 industry way
+1630,bart factory
+1631,cajun restaurant
+1632,new orleans
+1633,bourbon street
+1634,bayou
+1635,another part of the bayou
+1636,museum of tv and television
+1637,french restaurant
+1638,men room
+1639,broadcast booth
+1640,variety show sound stage
+1641,50 ice cream parlor
+1642,comroo
+1643,rommelwood military academy
+1644,military academy
+1645,barracks
+1646,back on the firing range
+1647,42nd street between 8th and 7th - 70s
+1648,lincoln tunnel
+1649,new york city
+1650,terminal
+1651,world trade center plaza
+1652,crown of statue
+1653,immigrant ship
+1654,center of world trade center plaza
+1655,subway car
+1656,another subway car
+1657,chinatown street
+1658,world trade center tower lobby
+1659,observation deck
+1660,world trade center tower
+1661,across the street
+1662,office building hallway
+1663,mad reception area
+1664,midtown avenue
+1665,times square
+1666,midtown street
+1667,central park
+1668,george washington bridge
+1669,faculty lounge
+1670,storage facility
+1671,armin bare seedy apartment
+1672,railroad station
+1673,door
+1674,dr pryor office
+1675,preschool
+1676,springfield private preschool
+1677,king toot window
+1678,army surplus store
+1679,paris france
+1680,french military base
+1681,french missile room
+1682,paris street
+1683,alien planet
+1684,alien command center
+1685,professor frink house
+1686,town meeting house
+1687,sprynge-fielde gorge
+1688,witch cave
+1689,wiggum house
+1690,gun shop
+1691,gun store
+1692,meeting hall
+1693,nra meeting
+1694,sporting goods store
+1696,springfield pee wee football field
+1697,springfield football field
+1698,apu car
+1699,air india terminal
+1700,museum of natural history
+1701,church basement
+1702,municipal court
+1703,hilltop
+1704,vatican
+1705,mall entrance
+1706,impound yard
+1707,city hall corridor
+1708,test room
+1709,real estate office
+1710,run-down house
+1711,small house
+1712,murder house
+1713,unemployment office
+1714,kliff kar chalet
+1715,springfield tv store
+1716,jeopardy studio
+1717,screamatorium
+1718,hitler car
+1719,glass bottomed boat
+1720,airport terminal
+1721,airport tarmac
+1722,movementarian compound
+1723,movementarian school
+1724,movementarian day care center
+1725,springfield fire department
+1726,underwater
+1727,cave
+1728,shoe store
+1729,springfield amphitheater
+1730,coffee house
+1731,stu disco
+1732,party ship
+1733,springfield outskirts
+1734,drive-in movie
+1735,drive-in
+1736,railroad crossing
+1737,cliff overlooking springfield harbor
+1738,mid-air
+1739,art gallery
+1740,channel six
+1741,control booth
+1742,knowledgeum
+1743,sex-education pavilion
+1744,toy store
+1745,abandoned prison
+1746,morningwood penitentiary
+1747,primitive amphitheater
+1748,naval reserve recruiting office
+1749,naval reserves recruiting office
+1750,back room of moe
+1751,navy barber shop
+1752,pier
+1753,legion hall
+1754,american legion hall
+1755,piercing store
+1756,port springfield
+1757,submarine dock
+1758,submarine
+1759,officer mess
+1760,torpedo room
+1761,enemy sub
+1762,ss jebediah
+1763,sub
+1764,ocean floor
+1765,ss jebediah bridge
+1766,general assembly
+1767,us aircraft carrier
+1768,engine room
+1769,submarine hallway
+1770,pacific ocean
+1771,naval courtroom
+1772,flanders kitchen
+1773,irs office
+1774,irs waiting room
+1775,irs interrogation room
+1776,french airport
+1777,burns bearcat
+1778,airfield
+1779,aircraft hangar
+1780,10000 feet over the gulf of mexico
+1781,burns plane
+1782,government jet
+1783,havana international airport
+1784,havana
+1785,presidential palace
+1786,castro private office
+1787,tv station
+1788,animal assistants
+1789,channel 6 news studio
+1790,brockman house
+1791,ramshackle house
+1792,railroad tracks
+1793,donut shop
+1794,department store
+1795,sanitation commissioner office
+1796,city clerk office
+1797,garbage truck parking area
+1798,suburban street
+1799,wiggum dining room
+1800,homer office
+1801,cliff above abandoned mine entrance
+1802,flanders back yard
+1803,cletus outhouse
+1804,jet
+1805,flag zone
+1806,base of the murderhorn
+1807,power sauce corp
+1808,yuk-ingham palace
+1809,deserted area
+1810,russian neighborhood
+1811,springsonian museum
+1812,steep road
+1813,operator booth
+1814,egyptian exhibit room
+1815,theme restaurant
+1816,barn
+1817,bed and breakfast
+1818,mini-golf course
+1819,windmill
+1820,suburban neighborhood
+1821,someone back yard
+1822,sky above springfield
+1823,crystal cathedral
+1824,football stadium
+1825,dingo junction
+1826,nurse office
+1827,vent
+1828,ventilation duct
+1829,kbbl radio station
+1830,frink house
+1831,museum entrance
+1832,edison laboratory
+1833,eerily-lit courtroom
+1834,municipal building
+1835,office door
+1836,itchy house
+1837,itchy scratchy street scene
+1838,flying saucer
+1839,grassy area
+1840,alec and kim house
+1841,winnebago
+1842,twentieth century fox studios
+1843,fox executive office
+1844,farm land
+1845,groovy grove natural farm
+1846,eatie gourmet
+1847,hallway outside boy bathroom
+1848,springfield public beach
+1849,ghost town
+1850,bloodbath gulch
+1851,train tracks
+1852,waterfront
+1853,clothing store
+1854,tramp steamer
+1855,bodyguard school
+1856,mayor mansion
+1857,springfield dinner theater
+1858,dinner theater
+1859,las vegas strip
+1860,surveillance room above roulette table
+1861,roman empire theme bar - later
+1862,casino dining room
+1863,casino lobby
+1864,nevada state line
+1865,desert - later
+1866,springfield memorial stadium
+1867,playing field
+1868,right field bleachers
+1869,drive-in theater
+1870,fence outside drive-in
+1871,wiggum billboard
+1872,krabappel kitchen
+1873,government surveillance room
+1874,tire store
+1875,tire store waiting room
+1876,springfield travel agency
+1877,stadium parking lot
+1878,sky box
+1879,tv production company
+1880,costington
+1881,dress shirt counter
+1882,garden party
+1883,springfield forest
+1884,apt building
+1885,tiffany
+1886,springfield waterfront
+1887,car dealership
+1888,wild animal park
+1889,porta-john
+1890,porta-john continuous
+1891,canyonero
+1892,pj oharrigan
+1893,two-lane highway
+1894,medical building
+1895,new age store
+1896,lisa tank
+1897,homer tank
+1898,repo truck
+1899,underground
+1900,springfield beach
+1901,slaughterhouse
+1902,red truck
+1903,door store
+1904,truck stop
+1905,roadside market
+1906,homer truck
+1907,georgia highway
+1908,truck depot
+1909,garden of eden
+1910,outside the garden of eden
+1911,ancient construction site
+1912,pharaoh construction tent
+1913,pharaoh tent
+1914,great pyramid
+1915,great pyramid entrance
+1916,red sea
+1917,toilets
+1918,other side of the red sea
+1919,solomon temple
+1920,jerusalem royal palace
+1921,jerusalem
+1922,palestinian countryside
+1923,tower of babel
+1924,base of tower
+1925,mom pop hardware
+1926,gallery
+1927,international olympic committee building
+1928,international olympic committee office
+1929,tour boat
+1930,yacht
+1931,megastore
+1932,supermegastore
+1933,roof of building in downtown springfield
+1934,base of building
+1935,scotland
+1936,loch ness
+1937,loch
+1938,las vegas casino
+1939,euclid street
+1940,mensa house
+1941,cyber cafe
+1942,the java server
+1943,33 cent store
+1944,plane
+1945,tokyo skyline
+1946,tokyo hotel
+1947,simpson hotel room
+1948,downtown tokyo
+1949,tokyo
+1950,americatown restaurant
+1951,tokyo fruit stand
+1952,tokyo street
+1953,sumo stadium
+1954,elegant tea room
+1955,american embassy
+1956,fish gutting factory
+1957,gameshow set
+1958,tokyo tower
+1959,rim of volcano
+1960,volcano
+1961,electric car
+1962,theater lobby
+1963,private jet
+1964,movie studio
+1965,mini-van
+1966,mel gibson office
+1967,hollywood
+1968,beverly hills
+1969,screening room
+1970,street outside studio
+1971,hollywood automobile museum
+1972,hollywood blvd
+1973,mercedes
+1974,road warrior car
+1975,principal office
+1976,drug company
+1977,street on outskirts of town
+1978,army barracks
+1979,another street
+1980,springfield shopper
+1981,newspaper press room
+1982,press room
+1983,newspaper
+2366,clinic
+1984,planet springfield restaurant
+1985,rotating restaurant
+1986,taste of springfield festival
+1987,taste of springfield
+1988,coastal road
+1989,simpsons front yard
+1990,high tech building
+1991,spaceship launch area
+1992,spaceships on launch pad
+1993,googol-plex
+1994,theater door
+1995,outside front door
+1996,behind farmhouse
+1997,feed store
+1998,farm
+1999,roadside stand
+2000,lavatory
+2001,road in front of simpson farm
+2002,springfield squares gameshow set
+2003,springfield state building
+2004,springfield trade center
+2005,underground chamber
+2006,springfield ymca
+2007,ikea-type store
+2008,sh_p
+2009,showroom
+2010,shop
+2011,lookout point
+2012,greaser cafe
+2013,gang camp
+2014,poppa wheelie
+2015,rural gas station
+2016,room behind chalkboard
+2017,research room
+2018,suburban living room
+2019,corporate park
+2020,kid first industries
+2021,lindsey naegle office
+2022,springfield tire fire
+2023,moe apartment
+2024,funeral home
+2025,itchy apartment
+2026,ski resort
+2027,ski area
+2028,ski lodge
+2029,marge hospital room
+2030,springfield presbyterian hospital
+2031,leper colony
+2032,electric needle room
+2033,college hall
+2034,campus security headquarters
+2035,dean peterson house
+2036,ditch
+2037,brother faith revival meeting
+2038,brother faith revival tent
+2039,revival tent
+2040,bart revival tent
+2041,bart tent
+2042,announcer booth
+2043,mayo clinic
+2044,burns yacht
+2045,state fair
+2046,state fairgrounds
+2047,bandshell
+2048,grandstand
+2049,race track
+2050,starting gate
+2051,betting line
+2052,jockey room
+2053,jockey lair
+2054,wilderness area
+2055,infield
+2056,clay babcock race car
+2057,rod and todd room
+2058,sidewalk near flanders house
+2059,video dating service office
+2060,expensive restaurant
+2061,duck pond
+2062,springfield public tv studio
+2063,prop-plane
+2064,tropical island
+2065,fox tv pledge drive studio
+2066,forest preserve
+2067,duff days entrance
+2068,duff days
+2069,tipsy-whirl ride
+2070,duff days designated drivers zone
+2071,duff days fair grounds
+2072,doctor office
+2073,it never ends set
+2074,moe dressing room
+2075,director booth
+2076,soap opera set
+2077,indian casino
+2745,juvie
+2078,beach bungalow
+2079,simpson house of the future
+2080,nelson crab-shack
+2081,pennsylvania avenue
+2082,white house lawn
+2083,oval office
+2084,camp david
+2085,banquet room
+2086,casino manager office
+2087,springfield business district
+2088,polynesian restaurant
+2089,office building
+2090,aa meeting
+2091,helicopter flight school
+2092,florida
+2093,swamp
+2094,southern countryside
+2095,highway construction area
+2096,gardens in front of courthouse
+2097,eye caramba
+2098,eye caramba examination room
+2099,eyewear store
+2100,tommy hillclimber camping store
+2101,dance class
+2102,der krazy kraut
+2103,insanity hearing room
+2104,krusty the clown show set
+2105,microfilm room
+2106,buckingham palace
+2107,hollywood boulevard
+2108,willie nelson tour bus
+2109,tv editing bay
+2110,editing room
+2111,heaven
+2112,heaven gate
+2113,simpson pumpkin house
+2114,edge of forest
+2115,dark forest
+2116,clearing
+2117,cottage
+2118,enchanted forest
+2119,tower in the middle of the woods
+2120,candy house
+2121,springfield marine park
+2122,dolphin show amphitheater
+2123,beach parking lot
+2124,olde springfield hospital
+2125,professor frink lab
+2126,olde springfield arena
+2127,springfield festival of books
+2128,stephen king booth
+2129,prof frink booth
+2130,dr nick riviera booth
+2131,books for dummies section
+2132,children stage
+2133,panel discussion tent
+2134,krusty booth
+2135,sand dune
+2136,krusty car
+2137,sophie loft
+2138,fat tony compound
+2139,fat tony bedroom
+2140,fat tony house
+2141,sophie building
+2142,barbershop
+2143,thai restaurant
+2144,krustyburger roof
+2145,abandoned warehouse
+2146,tree
+2147,hillside
+2148,tree and surrounding forest
+2149,redwood tree
+2150,moon
+2151,hemp city
+2152,supply closet
+2153,financial planning office
+2154,habitat
+2155,costington toy department
+2156,mr costington office
+2157,announcers booth
+2158,beginning of parade route
+2159,parade route
+2160,honest john computers
+2161,computer store
+2162,real kwik-e-mart
+2163,island community room
+2164,stark room
+2165,waters around island
+2166,number 2 lair
+2167,magic palace
+2168,valet parking stand
+2169,russian space station
+2170,body shop
+2171,high pressure tire sales
+2174,circus tent
+2175,vault
+2176,springfield national bank
+2177,brokerage
+2178,screaming monkey medical research center
+2179,research institute
+2180,prison rodeo arena
+2181,clown dressing room
+2182,prison infirmary
+2183,prison weight yard
+2184,chiropractor examining room
+2185,street in front of homer house
+2186,laundromat
+2187,food court
+2188,the dungeon secret basement
+2189,crappy apartment complex
+2190,comic book guy crappy apartment
+2191,tennis court
+2192,news van
+2193,simpson tennis court
+2194,springfield tennis stadium
+2195,center court
+2196,court
+2197,game show set
+2198,springfield minimum security prison
+2199,storage locker depot
+2200,storage locker
+2201,sports equipment shed
+2202,krusty the clown show soundstage
+2203,laugh in stage
+2204,green room
+2205,track stadium
+2206,springfield marathon
+2207,marathon
+2208,classified records compound
+2209,compound
+2210,middle eastern desert
+2211,producer office
+2212,aircraft carrier
+2213,ship bridge
+2214,mad building
+2215,blockoland
+2216,duff stadium
+2217,outside stadium
+2218,duff the 8th office
+2219,landscaped area behind center field wall
+2220,albuquerque mayor office
+2221,suburban kitchen
+2222,wide concrete river channel
+2223,video surveillance room
+2224,lecture hall
+2225,industrial plant
+2226,kitchen-maid plant
+2227,african village
+2228,air above africa
+2229,airstrip
+2230,african city
+2231,rural road
+2232,safari vehicle
+2233,savannah
+2234,wildlife reserve
+2235,archaeological site
+2236,masai village
+2237,jungle compound
+2238,joan bushwell hut
+2239,chimp refuge
+2240,mine shaft
+2241,ferrari
+2242,outskirts of town
+2243,west springfield elementary school
+2244,cab of truck
+2245,dr nick operating room
+2246,abandoned building
+2247,deep in cave
+2248,church parking lot
+2249,church yard
+2250,medical tent
+2251,ice cream social
+2252,praiseland
+2253,ride
+2254,food booth
+2255,ymca hallway
+2256,morgue
+2257,boxcar
+2258,log cabin
+2259,logging village
+2260,cobalt mountain
+2261,marge farmhouse
+2262,on a hill nearby
+2263,big city
+2264,great plains
+2265,prairie
+2266,mountain pass
+2267,picturesque street
+2268,bank of mississippi river
+2269,mississippi river
+2270,bottom of rapids
+2271,general store
+2272,riverboat
+2273,midair
+2274,tower atop burns mansion
+2275,front of burns mansion
+2276,top of tower
+2277,springfield downtown
+2278,tarot card parlor
+2279,forest outside springfield
+2280,simpson house with ultrahouse additions
+2281,bottom of stairs
+2282,wizard school
+2283,montymort lair
+2284,springwarts academy
+2285,studio lot
+2286,lard lad donut shop
+2287,juvenile court
+2288,room five
+2289,flanders garage
+2290,chinese ministry of aggression
+2291,alley behind moe
+2292,university
+2293,swigmore u
+2294,swigmore u campus
+2295,the new moe
+2296,m
+2297,homer garage
+2298,wide shot of woods
+2299,chinatown
+2300,strip club
+2301,disco
+2302,ned flanders room
+2303,snake hideout
+2304,rock quarry
+2305,top of quarry
+2306,bottom of quarry
+2307,quarry
+2308,edge of quarry
+2309,drainage pipe
+2310,drainpipe
+2311,rocket ship
+2312,tv-style control room
+2313,evil castle
+2314,springfield republican party headquarters
+2315,cell
+2316,mount swartzwelder
+2317,edge of gorge
+2318,gorge
+2319,log in gorge
+2320,duff world records office
+2321,motherloving sugar corporation
+2322,motherloving sugar
+2323,cletus shack
+2324,disco stu 70s-style bachelor pad
+2325,lard lad
+2326,caribbean sea
+2327,bridge of yacht
+2328,dock area
+2329,concession stand
+2330,tv talk show studio
+2331,derby pit
+2332,patty and selma doorway
+2333,artie ziff mansion
+2334,putting green
+2335,stern of a yacht
+2336,artie ziff estate
+2337,ziff estate
+2338,artie house
+2339,german castle
+2340,arid western plains
+2341,artie helicopter
+2342,oilfield
+2343,bottom of oil derrick
+2344,banged-up helicopter
+2345,private school grounds
+2346,fair
+2347,game booth
+2348,humvee
+2349,wolfcastle estate
+2350,wolfcastle mansion
+2351,wolfcastle house
+2352,springfield square garden
+2353,floppy
+2354,greta house
+2355,boardwalk
+2356,toronto bus station
+2357,cn tower
+2358,paramountie studios
+2359,soundstage
+2360,undercover nerd soundstage
+2361,curling for loonies set
+2362,floppy night club
+2363,old ritzy neighborhood
+2364,buck mansion
+2365,buck house
+2367,springfield aquarium
+2368,street in front of retirement castle
+2369,branson
+2370,branson theater
+2371,plain
+2372,inside city of troy
+2373,flaming ruins of troy
+2374,mt olympus
+2375,homer ship
+2376,ithaca
+2377,island of circe
+2378,river styx
+2379,penelope and odysseus living room
+2380,medieval french town
+2381,french house
+2382,field outside fortress
+2383,ramparts of english castle
+2384,french throne room
+2385,feasting hall
+2386,hamlet bedchamber
+2387,king bedchamber
+2388,throne room
+2389,phone company
+2390,brazilian airplane
+2391,rio de janeiro
+2392,hotel lobby
+2393,rio
+2394,churrascarias
+2395,rio and homer thought bubble cut
+2396,samba school
+2397,schoolhouse
+2398,street in rio
+2399,simpson garden
+2400,high school football stadium
+2401,skies of springfield
+2402,friars club
+2403,springfield friars club
+2404,shrine auditorium
+2405,speaker bureau
+2406,small town city hall
+2407,modern office building
+2408,betterthantvcom building
+2409,betterthantvcom
+2410,battlefield
+2411,another part of springfield park
+2412,divorce lawyer office
+2413,manjula apartment
+2414,apu apartment building
+2415,apu old apartment building
+2416,apu and manjula bedroom
+2417,apu and manjula apartment building
+2418,lugash gym
+2419,hole
+2420,china
+2421,sweatshop
+2422,carrie car
+2423,springfield college
+2424,springfield college green
+2425,café kafka
+2426,springfield university main quad
+2427,roof
+2428,old man house
+2429,old house
+2430,closet
+2431,mrs bellamy house
+2432,front parlor
+2433,study
+2434,death row
+2435,city morgue
+2436,costington front window
+2437,arnie pye helicopter
+2438,town meeting
+2439,the wooly bully
+2440,hat store
+2441,simpson backyard day
+2442,sidewalk in front of simpson house
+2443,women clothing store
+2444,front of simpson house
+2445,country dirt road
+2446,countryside later
+2447,rolling field
+2448,farmhouse day
+2449,rural
+2450,war room day
+2451,marge and homer bedroom night
+2452,seaplane
+2453,island of lost souls
+2454,dr hibbert villa
+2455,homer and marge bungalow
+2456,house of pain
+2457,marge and homer bungalow
+2458,bart and lisa bungalow
+2459,springfield pet shot
+2460,springfield pet shop
+2461,springfield blood bank
+2462,springfield red cross
+2463,rock n roll fantasy camp
+2464,camp
+2465,lenny thread shed
+2466,class
+2467,rock n roll camp
+2468,bunkhouse
+2469,backstage area
+2470,civic center parking lot
+2471,television store
+2472,satellite
+2473,central perk-style coffee shop with japanese dÉcor
+2474,third-grade class
+2475,state legislature
+2476,capital city hotel
+2477,hotel bathroom
+2478,capitol building
+2479,capital city street
+2480,wooded area below highway
+2481,thick woods
+2482,plastic surgery clinic
+2483,plastic surgery waiting room
+2484,plastic surgery center
+2485,stomach staples center
+2486,dr velimirovic office
+2487,luigi trattoria
+2488,africa
+2489,apartment hallway
+2490,lenny apartment
+2491,reality channel studio
+2492,reality channel studios
+2493,testing room
+2494,1895 house
+2495,video confessional
+2496,hilly area
+2497,stagnant springs spa
+2498,spa
+2499,mud spa
+2500,massage room
+2501,yoga class
+2502,steam room
+2503,maximum security prison
+2504,warden office
+2505,mountain cliff
+2506,lover lane
+2507,imax theater
+2508,official building
+2509,teacher of the year foundation
+2510,efcot center
+2511,future sphere
+2512,transportation pavilion
+2513,pavilion
+2514,home of tomorrow
+2515,vietnam
+2516,same classroom
+2517,art deco office building
+2518,art deco building
+2519,ice cream store
+2520,science building
+2521,40s building
+2522,cabin motel
+2523,circus grounds
+2524,hall of mirrors
+2525,fancy living room
+2526,wolfcastle bedroom
+2527,muscle beach
+2528,pageant hall
+2529,springfield arena
+2530,community outreach center
+2531,channel 6 helicopter
+2532,church grounds
+2533,church roof
+2534,law office
+2535,loft building
+2536,loft
+2537,bart loft building
+2538,bart loft
+2539,skewed tour
+2540,half-pipe
+2541,channel six news
+2542,spellympic village
+2543,inside outdoor coliseum
+2544,san francisco
+2545,spellympic coliseum
+2546,springfield bowl
+2547,mafia jet
+2548,springfield international airport
+2549,off ramp inn
+2550,congressional office building
+2551,congressman office
+2552,second-best western motel
+2553,us capitol
+2554,washington bar
+2555,stripping class
+2556,side of the road
+2557,lego land
+2558,morocco
+2559,springfield museum of natural history
+2560,hobby store
+2561,house shaped like a tugboat
+2562,steps of city hall
+2563,fat tony car
+2564,park bench
+2565,springfield elementary baseball field
+2566,bachelor arms
+2567,kirk van houten apartment
+2568,village apartment
+2569,gay nightclub
+2570,castle-shaped building
+2571,medieval times
+2572,burns lawyer house
+2573,record-pressing plant
+2574,warehouse rave
+2575,karaoke bar
+2576,dude ranch
+2577,ranch
+2578,picnic area
+2579,natural hot springs
+2580,dining hall
+2581,lisa and bart cabin
+2582,dirt road through forest
+2583,beaver dam
+2584,base of the dam
+2585,main ranch building
+2586,farm neighborhood
+2587,new treehouse
+2588,bunker
+2589,hk duff office
+2590,duff executive office
+2591,space station
+2592,100000 pyramid set
+2593,springfield bowery
+2594,viewing area
+2595,springfield hospital waiting room
+2596,springfield pier
+2597,judge harm courtroom
+2598,springfield sidewalk
+2599,counselor office
+2600,montana
+2601,concert stadium
+2602,front of flanders house
+2603,kirk van houten cavalry kids car
+2604,inside stadium
+2605,gardens entrance
+2606,mini van
+2607,airspace over bridge
+2608,lower level
+2609,godfather house
+2610,isotopes stadium
+2611,swedish street
+2612,swedish auditorium
+2613,nobel prize auditorium
+2614,fbi headquarters
+2615,other room
+2616,state college
+2617,federal agents car
+2618,film processing store
+2619,side of freeway
+2620,atm machine
+2621,english meadow
+2622,deck of troop transport ship
+2623,heathrow airport
+2624,london streets
+2625,quaint british motel
+2626,london street
+2627,judi dench fish and chips
+2628,harrods
+2629,harrod
+2630,harrods window
+2631,london eye
+2632,british street
+2633,west end street
+2634,car rental lot
+2635,mini cooper
+2636,roundabout
+2637,old bailey
+2638,british-style courtroom
+2639,tower of london
+2640,palace guard room
+2641,queen bedchamber
+2642,sprawl-mart
+2643,grant connor house
+2644,suit closet
+2645,forest road
+2646,campground
+2647,wildlife sanctuary
+2648,hallway outside bathroom
+2649,xxx movie house
+2650,seedy street
+2651,jewish neighborhood
+2652,jewish walk of fame
+2653,walk of fame building
+2654,walk of fame headquarters
+2655,isotope stadium
+2656,back stage
+2657,hibbert household
+2658,synagogue
+2659,springfield heights promenade
+2660,cognition junction
+2661,victor secret
+2662,things unnecessary
+2663,run-down street
+2664,seedy christmas tree lot
+2665,family matters set
+2666,star trek set
+2667,church sacristy
+2668,homeless shelter
+2669,snake apartment
+2670,parking area
+2671,cletus farm
+2672,toys Я us
+2673,roller coaster
+2674,mall parking structure
+2675,family section
+2676,town street
+2677,sidewalks of springfield
+2678,bike store
+2679,animal shelter
+2680,robot rumble ring
+2681,bookaccino
+2682,boris car loft
+2683,nantucket
+2684,evergreen manor
+2685,nantucket house
+2686,tom clancy home
+2687,cliff
+2688,hampton court palace
+2689,royal bedchamber
+2690,marriage counselor office
+2691,palace office
+2692,palace walls
+2693,palace
+2694,storeroom
+2695,mandan village
+2696,riverbank campsite
+2697,mountain valley
+2698,riverside
+2699,eighteenth-century austrian palace
+2700,eighteenth-century palace
+2701,vienna street
+2702,mozart home
+2703,concert hall
+2704,vienna opera house
+2705,streets of vienna
+2706,mozart bedroom
+2707,mozart house
+2708,emperor palace
+2709,tv museum
+2710,museum of television
+2711,van houten driveway
+2712,freeway exit ramp
+2713,milhouse new apartment
+2714,mound chamber
+2715,the flapjack stack
+2716,mrs wickerbottom pre-nursery school
+2717,springfield elementary cafeteria
+2718,visible man atrium
+2719,visible man mouth
+2720,mouth
+2721,visible man
+2722,visible man stomach
+2723,googolplex ticket window
+2724,googleplex
+2725,dark hallway
+2726,creepy garden
+2727,park area
+2728,congressional hearing room
+2729,prison visiting cubicle
+2730,country club prison
+2731,northern california
+2732,cosmic wars ranch
+2733,creature works building
+2734,lush valley winery
+2735,randall curtis office
+2736,oktoberfest parking lot
+2737,embankment
+2738,quitters
+2739,rec room
+2740,girls department
+2741,cosmetics dept
+2742,dressing room area
+2743,housewares section
+2744,springfield juvenile correctional facility
+2746,prison hallway
+2747,small prison auditorium
+2748,prison play yard
+2749,prison visiting room
+2750,juvenile prison
+2751,prison rec room
+2752,prison gymnasium
+2753,juvenile correctional facility
+2754,countryside
+2755,blacksmith
+2756,fork in road
+2757,fork in the road
+2758,juvenile hall
+2759,futuristic living room
+2760,multi-purpose room b
+2761,uncle tyrone house
+2762,video rental store
+2763,adult film section
+2764,plane cabin
+2765,swelldorado hotel
+2766,highway north of miami
+2767,miami airport
+2768,miami beach
+2769,miami
+2770,atlantic city
+2771,atlantic city hotel
+2772,luxury apartment tower
+2773,raoul penthouse
+2774,niagara falls airport
+2775,niagara falls hotel
+2776,top of ferris wheel
+2777,moon bounce castle
+2778,moon bounce
+2779,niagara river
+2780,base of the falls
+2781,poolside patio
+2782,county fair
+2783,city
+2784,summer camp
+2785,homer cabin
+2786,motorboat
+2787,girls dining room
+2788,girls kitchen
+2789,camp infirmary
+2790,lakeshore
+2791,girls beach
+2792,girls camp
+2793,girls dining hall
+2794,marge cabin
+2795,promontory
+2796,second date rock
+2797,fat camp
+2798,girls camp pay phone
+2799,boys camp payphone
+2800,girls payphone
+2801,girls campground
+2802,children exam room
+2803,when you wash upon a car wash
+2804,headbutt set
+2805,libertyville
+2806,first church of libertyville
+2807,ronald reagan reeducation center
+2808,prison auditorium
+2809,springfield mountain area
+2810,geezer rock
+2811,channel 6 building
+2812,springfield sky
+2813,army base
+2814,booth
+2815,core
+2816,victorian london
+2817,scotland yard
+2818,emporium of exotica
+2819,opium den
+2820,public yard
+2821,mao den
+2822,mao
+2823,capsule
+2824,mr burns body
+2825,burns body
+2826,vessel
+2827,frink office
+2828,mr burns
+2829,house next door
+2830,judging room
+2831,the thin crowd
+2832,bad part of town
+2833,muntz house
+2834,window
+2835,springfield press club
+2836,chloe car
+2837,springfield four seasons
+2838,highway outside capital city
+2839,base of the springfield volcano site
+2840,u n women conference
+2841,women conference
+2842,springfield volcano
+2843,base of the volcano
+2844,barney helicopter
+2845,plutonium storage room
+2846,goose gags and gifts
+2847,springfield air and space museum
+2848,air museum
+2849,tarmac
+2850,museum stage
+2851,springfield employment agency
+2852,police evidence room
+2853,drug manufacturing plant
+2854,canadian vfw-style building
+2855,dudley do-drugs pharmacy
+2856,canadian pharmacy
+2857,us
+2858,rented van
+2859,streets of winnipeg
+2860,border crossing canadian side
+2861,canadian jail
+2862,airport hangar
+2863,canadian warehouse
+2864,skies
+2865,plywood pelican
+2866,tower room
+2867,fancy hotel
+2868,fancy atrium
+2869,atrium
+2870,hot air balloon
+2871,large football stadium
+2872,commissioner office
+2873,capital city stadium
+2874,ark
+2875,hummer limo
+2876,fancy estate
+2877,alcatraaaz mansion
+2878,alcatraaaz house
+2879,springfield glacier park
+2880,springfield sprawlmart
+2881,springfield glacier visitor center
+2882,sprawlmart
+2883,glacier visitor center
+2884,springfield glacier
+2885,family court
+2886,bart sylvan glade
+2887,henhouse
+2888,suburban road
+2889,selma hospital room
+2890,springfield orphanage
+2891,chinese consulate
+2892,adoption affairs office
+2893,beijing airport
+2894,great hall of the people
+2895,in front of shaolin temple
+2896,mao tomb
+2897,great wall of china
+2898,beijing playhouse
+2899,playhouse
+2900,inside forbidden city
+2901,chinese street
+2902,zhengyici theater
+2903,simpsons hotel
+2904,orphanage
+2905,beijing street
+2906,fishing wharf
+2907,strip mall insurance agency
+2908,merry widow life insurance
+2909,motor home
+2910,rv dealership
+2911,turnpike
+2912,rear deck of ship
+2913,shelbyville main street
+2914,shelbyville
+2915,frank gehry-style house
+2916,springfield town assembly hall
+2917,prison shower
+2918,homer cell
+2919,snowball other family house
+2920,exercise yard
+2921,prison library
+2922,woods near prison
+2923,prison cellblock
+2924,prison kitchen
+2925,gas chamber
+2926,prison room
+2927,high school
+2928,high school gym
+2929,cliff with city view
+2930,underwater house
+2931,futuristic kwik-e-mart
+2932,graduation stage
+2933,decompression chamber
+2934,knockers
+2935,builder barn
+2936,mental hospital
+2937,electro-shock room
+2938,calmwood
+2939,dr itchy
+2940,health spa
+2941,serenity ranch
+2942,tab spangler car
+2943,front of simpson home
+2944,outside window
+2945,van houten living room
+2946,gospel for less
+2947,desert highway
+2948,mesa
+2949,sushi bar
+2950,desert road outside springfield
+2951,springfield mesa
+2952,upscale resort lobby
+2953,swanky hotel suite
+2954,god office
+2955,npr radio studio
+2956,limited appeal theater
+2957,flanders guest room
+2958,flanders house
+2959,humbleton
+2960,humble figurine factory
+2961,flanders humbleton house
+2962,flanders springfield house
+2963,st jerome
+2964,dublin street
+2965,confessional
+2966,lovejoy van
+2967,protestant youth fest fairground
+2968,protestant youth fest
+2969,youth festival
+2970,post-apocalyptic battlefield
+2971,fat tony office
+2972,highway rest stop
+2973,pay phone
+2974,roadside cafe
+2975,southern coast
+2976,chicken coop
+2977,southern coastal town
+2978,stamp museum
+2979,lenny front lawn
+2980,child bedroom
+2981,psychiatrist office
+2982,other side of the gate
+2983,first a m e church of springfield
+2984,spinster city apartments
+2985,springfield hospital grounds
+2986,forest clearing
+2987,burns estate
+2988,burns dining room
+2989,secluded mountain clearing
+2990,paradise pier
+2991,another area of the pier
+2992,tea house
+2993,springshire
+2994,teahouse
+2995,karaoke store
+2996,arts and crafts store
+2997,cletus and brandine pickup truck
+2998,quimby bedroom
+2999,tv soundstage
+3000,mayoral mansion
+3001,italian countryside
+3002,little italy
+3003,skies above springfield
+3004,tammy rec room
+3005,children hospital
+3006,burns basement
+3007,lawn
+3008,street next to springfield elementary
+3009,italy
+3010,lamborgotti factory
+3011,italian highway
+3012,pisa
+3013,pompeii
+3014,salsiccia town square
+3015,palazzo
+3016,well-appointed study
+3017,tuscan countryside
+3018,wine vat
+3019,row of shops
+3020,sausage shop
+3021,field on the edge of town
+3022,sideshow bob house
+3023,rome
+3024,roman street
+3025,inside colosseum
+3026,inside the colosseum
+3027,nazareth
+3028,mary house
+3029,king herod palace
+3030,inn
+3031,bethlehem inn
+3032,sky over the pacific
+3033,pacific atoll
+3034,tahiti
+3035,dumpster
+3036,toll road
+3037,car behind marge
+3038,tire fire
+3039,moe house
+3040,mason house
+3041,mason boat
+3042,spanish galleon
+3043,submersible
+3044,steam tunnel
+3045,boiler room
+3046,sixth grade class
+3047,band room
+3048,roadside diner
+3049,bathroom stall
+3050,diner bathroom
+3051,yard sale
+3052,upward bound camp
+3053,go-cart track
+3054,behind the school
+3055,pants factory
+3056,caverns
+3057,large marble-floored room
+3058,tower
+3059,tower attic room
+3060,excluders club
+3061,fog-shrouded field
+3062,chamber of cave
+3063,upscale restaurant
+3064,moeview motel
+3065,edna apartment building
+3066,sheep thought bubble
+3067,burns attic
+3068,cave mouth
+3069,cave chamber
+3070,outside school
+3071,riverbank park
+3072,riverside park
+3073,old wooden mill
+3074,mill
+3075,animal retirement home
+3076,chimp habitat
+3077,ruffintumble fun zone
+3078,swanky apartment building
+3079,lenny bedroom
+3080,lenny apartment building
+3081,fox lot
+3082,fox network building
+3083,suburban connecticut home
+3084,dank irish pub
+3085,charles and verity house
+3086,professional football headquarters
+3087,duff beer etc stadium
+3088,dr egoyan office
+3089,suicide room
+3090,another springfield street
+3091,bangalore airport
+3092,bangalore market place
+3093,bangalore
+3094,bangalore nuclear power plant
+3095,concrete apartment building
+3096,kavi apartment
+3097,waiting area
+3098,homer throne room
+3099,ceremonial chamber
+3100,plymouth england
+3101,docks
+3102,deck of the ship
+3103,mayflower
+3104,ship deck
+3105,atlantic ocean
+3106,plymouth colony
+3107,portsmouth harbor
+3108,bounty
+3109,palapa
+3110,upside-down ship
+3111,upside down ship
+3112,broadway theater
+3113,springfield elementary girls side
+3114,girls school
+3115,boys school
+3116,pink
+3117,flanders front porch
+3118,curb
+3119,banquet hall
+3120,hallway outside marge hospital room
+3121,springfield public park
+3122,shelbyville inn
+3123,function room
+3124,seaside café
+3125,springfield community theater
+3126,museum exhibit
+3127,weapons exhibit
+3128,hall of man
+3129,episcopalian church
+3130,owner box
+3131,buck and tabitha house
+3132,springfield music hall
+3133,dressing room door
+3134,bad neighborhood
+3135,nice neighborhood
+3136,fat tony suv
+3137,suv
+3138,fat tony mansion
+3139,cognac room
+3140,therapy office
+3141,jazzy goodtime
+3142,springfield animal shelter
+3143,old springfield mall
+3144,builders barn
+3145,roller coaster site
+3146,thai food factory
+3147,roller-coaster site
+3148,springfield main street
+3149,prague
+3150,breadline
+3151,kbbl skyscraper
+3152,kang and kodos spaceship
+3153,military base
+3154,the sole provider
+3155,awards ceremony
+3156,army recruitment office
+3157,base
+3158,visiting area
+3159,ridge
+3160,colonel tent
+3161,army command center
+3162,internment camp
+3163,springfield reservoir
+3164,german olympic stadium
+3165,athletic field
+3166,spectator stands
+3167,diving platform
+3168,area beside track
+3169,seedy neighborhood
+3170,regent hotel
+3171,new york
+3172,american poetry perspectives
+3173,new england countryside
+3174,college-looking building
+3175,main building
+3176,cocktail party
+3177,wordloaf
+3178,vermont
+3179,roadside maple syrup stand
+3180,pond
+3181,break room
+3182,black void
+3183,nelson backyard
+3184,locker
+3185,rocky coast
+3186,tide pools
+3187,grotto
+3188,rocky beach
+3189,springfield sports arena
+3190,sports arena
+3191,scottsdale
+3192,jackpot realty building
+3193,scottsdale house
+3194,simpson scottsdale house
+3195,ferry dock
+3196,ferry boat
+3197,barnacle bay
+3198,dilapidated hotel
+3199,low-quality inn
+3200,the rotting pelican
+3201,open sea
+3202,oceanographic institute
+3203,old new england lighthouse
+3204,captain bridge
+3205,stormy seas
+3206,japanese fishing trawler
+3207,new england forest
+3208,interstate
+3209,paris
+3210,chez simpson
+3211,palais de justice
+3212,chateau dif prison
+3213,chateau dif
+3214,deserted island
+3215,beautiful palace
+3216,chez meaux
+3217,monte cristo palace
+3218,opera hall
+3219,bart-man mansion
+3220,outlook
+3221,cletus barn
+3222,road outside springfield
+3223,springfield multicultural center
+3224,center
+3225,north haverbrook main drag
+3226,north haverbrook overlook
+3227,north haverbrook courthouse
+3228,capital city convention center
+3229,convention center auditorium
+3230,chapel office
+3231,play field
+3232,art room
+3233,infomercial studio
+3234,homer and marge first apartment
+3235,lakeside mansion
+3236,cafÉ de mexico
+3237,upscale apartment
+3238,marge apartment
+3239,dept store
+3240,homer and marge apartment
+3241,shuttle
+3242,spuckler farm
+3243,dr swanson office
+3244,different psychologist office
+3245,honeymoon suite
+3246,grampa and selma house
+3247,dmv front area
+3248,travel agency
+3249,large magazine building
+3250,editor office
+3251,upscale supermarket
+3252,pillowmint hotel
+3253,the springfield inquisitor offices
+3254,waterfall
+3255,celebrity mansion
+3256,tabloid editor office
+3257,hip club
+3258,snub club
+3259,ocean rig
+3260,earthland realms
+3261,trophy room
+3262,little league field
+3263,shelbyville grand wailea hotel
+3264,fire station
+3265,dalmatian kennel
+3266,jewel-encrusted doodads room
+3267,springfield public pool
+3268,the sharper mark-up
+3269,burning apartment building
+3270,upper apartment
+3271,skid row mission
+3272,outdoor fairgrounds
+3273,october harvest festival
+3274,harvest festival
+3275,corn maze
+3276,springfield animal police academy
+3277,cop bar
+3278,lou police cruiser
+3279,lou townhouse
+3280,ctu
+3281,bullies hideout
+3282,jimbo basement
+3283,jimbo house
+3284,ventilation room
+3285,wiener water
+3286,spinster city apt
+3287,mayor quimby mansion
+3288,sewer
+3289,springfield dental complex
+3290,dental complex
+3291,dental treatment room
+3292,dental room
+3293,channel six weather desk
+3294,brockman office
+3295,sideshow mel house
+3296,dark castle
+3297,chicago midway airport
+3298,second city theater
+3299,midway airport
+3300,barney
+3301,handyman choice factory
+3302,handyman choice
+3303,handyman choice corporation
+3304,shelbyville airport
+3305,burns chest
+3306,guidopolis mook-e-mart
+3307,bank parking lot
+3308,guidopolis street
+3309,tow truck cab
+3310,inside impound lot
+3311,town line
+3312,louie house
+3313,louie basement
+3314,guidopolis
+3315,streets of guidopolis
+3316,apple orchard
+3317,ladies clothes store
+3318,prison yard
+3319,therapist office
+3320,upstairs hallway bathroom
+3321,construction site overlooking museum
+3322,girder
+3323,what looks like couples therapist office
+3324,deserted street
+3325,government building
+3326,mrs skinner front door
+3327,heck house
+3328,cruise ship terminal
+3329,cruise ship
+3330,springfield countryside
+3331,telephone company office
+3332,coolsville
+3333,flashy gym
+3334,la body works
+3335,storefront
+3336,shapes
+3337,mini mall
+3338,palm springfield
+3339,resort
+3340,fancy reception
+3341,plastic surgeon office
+3342,surgery room
+3343,nurse station
+3344,shopping center
+3345,gadget gulch
+3346,living room set
+3347,freeway offramp
+3348,rib restaurant
+3349,wes doobner restaurant
+3350,casket
+3351,dimwillie
+3352,medium-sized medical building
+3353,medical office
+3354,treatment room
+3355,homer apartment
+3356,homer memory
+3357,below bridge
+3358,air below bridge
+3359,duff party boat
+3360,party boat
+3361,new hampshire
+3362,corporate hotel
+3363,spooky castle
+3364,republican party castle
+3365,trader earth
+3366,prof august class
+3367,college
+3368,college campus
+3369,professor august office
+3370,college green
+3371,grunge club
+3372,brownstone
+3373,victorian mansion
+3374,rural road near beach
+3375,student union
+3376,little seattle
+3377,classic simpsons mini-golf course
+3378,tunnel of love
+3379,rural texas
+3380,small town bank
+3381,upscale early 20th century neighborhood
+3382,the vamp mansion
+3383,crest of hill
+3384,dog moe watering hole
+3385,the vamp yard
+3386,punk club
+3387,london street outside club
+3388,indoor arena
+3389,cbgb
+3390,loaner car
+3391,loading dock behind auditorium
+3392,storage warehouse
+3393,warehouse roof
+3394,bleachers
+3395,television room
+3396,springfield national forest- day
+3397,springfield national forest- another area
+3398,black van
+3399,sneakers van
+3400,taj-mah-all-you-can-eat
+3401,springfield national forest- accident site
+3402,mistress-style apartment
+3403,prince house
+3404,butterfly enclosure
+3405,chazz busby ballet academy
+3406,ballet academy
+3407,springfield ballet theater
+3408,raccoon hutch
+3409,rural highway
+3410,other car
+3411,main farm building
+3412,cheddarbarrel farm
+3413,pig pen
+3414,chicken area
+3415,picnic table
+3416,dairy barn
+3417,calf judging tent
+3418,feedlot
+3419,rural farm
+3420,spuckler house
+3421,transport vehicle
+3422,cow suit
+3423,feedlot truck
+3424,vehicle
+3425,near simpson car
+3426,utah mountains
+3427,sundance institute
+3428,mountain top highway
+3429,park city
+3430,chili tent
+3431,nelson trailer
+3432,stuff-n-hug
+3433,abe and mona house
+3434,springfield funeral home
+3435,springfield monument park
+3436,higher up on mesa
+3437,foot of mountain
+3438,further up mesa
+3439,butte
+3440,top of butte
+3441,secret base
+3442,mountain secret base
+3443,springfield hilton
+3444,sound stage
+3445,the krusty show soundstage
+3446,krusty cabin
+3447,gavelby auction house
+3448,downtown springfield street
+3449,lucky jim bail bonds
+3450,lucky jim
+3451,au naturel
+3452,homer and ned office
+3453,subway platform
+3454,concrete
+3455,penitentiary
+3456,tunisian desert
+3457,hawaiian bar
+3458,sydney australia
+3459,australian bar
+3460,stockholm sweden
+3461,inga-bar beerman
+3462,andes mountains
+3463,machu picchu
+3464,woosterfield hotel
+3465,regency ballroom
+3466,bathroom stalls
+3467,woosterfield manor
+3468,incredibly cool indoor pool
+3469,huge stately library
+3470,simon room
+3471,woosterfield estate
+3472,aspen
+3473,downtown aspen
+3474,mountainside
+3475,ski lift chair
+3476,picturesque roadside
+3477,homer roadster
+3478,millionaire house
+3479,kozy kabins
+3480,bouvier residence
+3481,party
+3482,cabana
+3483,pool area
+3484,glider
+3485,woods near kozy kottages
+3486,kozy lake
+3487,woods nearby
+3488,woods near kozy kabins
+3489,park ranger observation tower
+3490,chasm
+3491,license bureau
+3492,gay dance club
+3493,springfield hyatt
+3494,springfield - establishing
+3495,springfield mall parking lot
+3496,mapple store
+3497,springfield street - early evening
+3498,springfield - morning
+3499,streets of springfield - night
+3500,bashir house
+3501,amid study
+3502,office 1
+3503,under sea
+3504,mapple world headquarters
+3505,billionaires retreat
+3506,camping lodge
+3507,dallas
+3508,burns box
+3509,springfield sports palace
+3510,sports palace - continuous
+3511,greenhouse
+3512,springfield - night
+3513,excitement arena
+3514,jumbotron booth
+3515,arena court - continuous
+3516,springfield excitement arena
+3517,springfield rec center
+3518,kung fu class
+3519,rec center
+3520,fancy private school
+3521,pinkberry-type yogurt store
+3522,hobbes house
+3523,ellis island
+3524,large function room
+3525,clam-elot seafood
+3526,clam-a-lot seafood
+3527,springfield high - auditorium
+3528,retirement community
+3529,luigi back room
+3530,springfield high - alternate reality
+3531,luigi kitchen
+3532,springfield high - gym
+3533,large beautiful house
+3534,springfield wall of fame
+3535,outskirts of capital city
+3536,rundown downtown gas station
+3537,gas station restroom door
+3538,seedy gas station bathroom
+3539,seedy gas station
+3540,garbage barge
+3541,countryfine mortgage brokers
+3542,countryfine bank
+3543,ned house
+3544,usa
+3545,poison store
+3546,river bank
+3547,convent
+3548,convent steps
+3549,clock tower
+3550,sailing ship
+3551,field near beach
+3552,bell tower
+3553,hillside near springfield sign
+3554,ireland
+3555,irish countryside
+3556,dunkilderry
+3557,tom oflanagan
+3558,tom oflanagan pub
+3559,giant causeway
+3560,guinness brewery
+3561,blarney castle
+3562,dublin
+3563,simpson son pub
+3564,irish police station
+3565,coast guard headquarters
+3566,bridal store
+3567,bakery
+3568,swell-air hotel
+3569,groom room
+3570,dark mysterious room
+3571,swell-air hotel- bride room
+3572,small creepy house
+3573,spinster arms
+3574,children park
+3575,lovers lane
+3576,moe car
+3577,ogdenville
+3578,wooded street
+3579,maya house
+3580,alcatraz avenue
+3581,doorstep
+3582,dr hibbert office building
+3583,crafty art arts crafts
+3584,model store
+3585,westminster abbey
+3586,red blazer real estate office
+3587,waverly hills apartments
+3588,two-story apartment building
+3589,waverly hills
+3590,waverly hills city hall
+3591,homer waverly hills apt bldg
+3592,waverly hills elementary school
+3593,phone company control room
+3594,homer apartment building
+3595,party apartment
+3596,tapas bar
+3597,rodeo drive-type street
+3598,bart tree house
+3599,finger-looking good nail salon
+3600,dodger stadium
+3601,richmond palace
+3602,spanish castle
+3603,elizabeth castle
+3604,english beach
+3605,english ship
+3606,deck of spanish ship
+3607,elizabeth palace
+3608,mine
+3609,dwarves cottage
+3610,scottish castle
+3611,sideshow mel dressing room
+3612,springfield theater
+3613,community theater
+3614,911 operator office
+3615,mediocri-tots daycare center
+3616,ginormous pictures studios
+3617,ginormous pictures
+3618,stahl case study house
+3619,private gym
+3620,springfield soundstage
+3621,mrs krabappel car
+3622,fancy prep school
+3623,krabappel apt
+3624,mrs krabappel apt
+3625,edna edibles
+3626,fight arena
+3627,promoter skybox
+3628,martial arts academy
+3629,stately gothic building
+3630,yale club
+3631,springfield elementary field
+3632,jeep
+3633,desert area
+3634,safe zone
+3635,photo studio
+3636,carl office
+3637,smooches on the beach hotel
+3638,french presidential palace
+3639,front lawn
+3640,frozen lake
+3641,snow-covered shack
+3642,near still
+3643,spuckler porch
+3644,field near cletus shack
+3645,springfield woods
+3646,hollowed-out tree
+3647,springfield hill country
+3648,hillbilly region
+3649,snowy woods
+3650,springfield courtroom
+3651,gumdrop company
+3652,bart powerless room
+3653,snow pile
+3654,snow chamber
+3655,giant snow bank
+3656,seaworld-type park
+3657,clam stroller
+3658,slimu stadium
+3659,inside aquatic stadium
+3660,springfield union station
+3661,marshall goldman office
+3662,tinseltown starliner
+3663,grampa compartment
+3664,train car
+3665,krustylu studio store
+3666,capital city nuclear plant
+3667,penelope dressing room
+3668,capital city four seasons
+3669,country club banquet hall
+3670,torah room
+3671,sidewalk cafÉ
+3672,elsewhere in paris
+3673,surface of water
+3674,circuit circus
+3675,electronics store
+3676,lower down mountain
+3677,staples center-type arena
+3678,zero-g jet
+3679,springfield ice rink
+3680,mrs skinner womb
+3681,denver
+3682,broomfield event center
+3683,broomfield ice arena
+3684,vancouver
+3685,vancouver street
+3686,vancouver olympic stadium
+3687,olympic village
+3688,ski jump
+3689,vancouver olympic centre
+3690,vancouver olympic village
+3691,marge and homer apartment
+3692,sports chalet set
+3693,spot-lit theatrical stage
+3694,modest 1860s house
+3695,burns plantation house
+3696,garden outside burns ballroom
+3697,burns plantation
+3698,wilderness
+3699,traveling circus
+3700,old simpson house
+3701,film vault
+3702,niagara falls
+3703,modest snow-covered house
+3704,subway stairwell
+3705,subterranean tunnel
+3706,abandoned subway station
+3707,subway tunnel
+3708,park playground
+3709,subway
+3710,subway terminal
+3711,subway track
+3712,subway control booth
+3713,futuristic world
+3714,miss hoover room
+3715,miss stringham classroom
+3716,springfield imax theater
+3717,ben gurion airport
+3718,mt zion
+3719,near the western wall
+3720,western wall
+3721,church of the holy sepulchre
+3722,streets of old jerusalem
+3723,dome of the rock
+3724,israeli air airplane
+3725,burns wine cellar
+3726,grassy field
+3727,front of party house
+3728,springfield play park
+3729,louie car
+3730,alternative energy fair
+3731,open water
+3732,monitor room
+3733,surveillance center
+3734,1980s volkswagen mini-van
+3735,ocean ferry docks
+3736,lobster trap
+3737,ferry deck
+3738,weasel island
+3739,civil war prison
+3740,crib
+3741,street in front of apu and manjula apartment
+3742,street near springfield ferry dock
+3743,iceland
+3744,walt warren backyard
+3745,walt house
+3746,walt car
+3747,two-man cell
+3748,hospital medical ward
+3749,padded cell
+3750,gas grub
+3751,remote wilderness
+3752,tijuana streets
+3753,five corners
+3754,ugly dog contest stage
+3755,springfield elks lodge
+3756,springfield university medical school - establishing
+3757,springfield university medical school - a little later
+3758,los angeles airport
+3759,lax
+3760,springfield street - evening
+3761,sports bar
+3762,hollywood - day
+3763,20th century fox studios
+3764,american idol set
+3765,springfield municipal golf course
+3766,krusty limo
+3767,road leading away from airport
+3768,arts camp
+3769,cabin 12
+3770,expressions- the next morning
+3771,camp stage
+3772,expressions- wooded clearing
+3773,the hague netherlands
+3774,international court of justice
+3775,expressions- great lawn
+3776,expressions
+3777,sprooklyn
+3778,run-down apartment building
+3779,the hague
+3780,nearly-empty coffee house
+3781,ethan and kurt apartment
+3782,fancy nightclub
+3783,large pillared imposing-looking bank
+3784,asia de cuba de springfield
+3785,nelson bike shop
+3786,roller rink
+3787,isotots stadium
+3788,press booth
+3789,on deck circle
+3790,broadcasters booth
+3791,various locations around capital city
+3792,drops and risers game
+3793,simpson house front lawn
+3794,water
+3795,south pacific
+3796,sailboat
+3797,albatross
+3798,simpsons boat
+3799,simpson boat
+3800,homer and marge yacht
+3801,marge and homer yacht
+3802,misty forest
+3803,church bell tower
+3804,west springfield
+3805,texxon station
+3806,marge childhood room
+3807,lisa window
+3808,cloisters academy
+3809,statue of liberty crown
+3810,newsroom set
+3811,hospital lobby
+3812,cliff overlooking the sea
+3813,sky near cliff
+3814,dick cheney house
+3815,doctor thurston office
+3816,ostrich farm
+3817,ostrich world
+3818,north pole
+3819,train platform
+3820,wrapping room
+3821,toy inspection area
+3822,clausco building
+3823,1940s version of simpson house
+3824,ardennes forest
+3825,springfield aircraft plant
+3826,1943 springfield
+3827,le gamaar movie theater
+3828,snowy landscape
+3829,broadway show
+3830,court house
+3831,court house clerical area
+3832,court room
+3833,federal building
+3834,fbi observation van
+3835,prison cafeteria
+3836,surveillance room
+3837,italian social club
+3838,art classroom
+3839,5th grade classroom
+3840,springfield playground
+3841,enchanted snail restaurant
+3842,the enchanted snail
+3843,springfield four seasons hotel
+3844,burns library
+3845,league of extra-horny gentlemen
+3846,mo tavern
+3847,mo
+3848,zip zap and za pizza arcade
+3849,patrick house
+3850,zoo entrance
+3851,apiary
+3852,sheldon leavitt office
+3853,springfield airport motor lodge
+3854,julio hair salon
+3855,homer head
+3856,singles club
+3857,starbucks-style coffee shop
+3858,rice paddy
+3859,china - day
+3860,monastery
+3861,nobleman fortress
+3862,courtyard of fortress
+3863,yogurt nook
+3864,late 90s-era internet start-up office
+3865,animation studios
+3866,bullpen
+3867,building 1
+3868,projection room
+3869,beverly hilton-type hotel
+3870,hotel hollywood hotel
+3871,kodak theater
+3872,watts towers - meanwhile
+3873,la freeway
+3874,hollywood blvd - a little later
+3875,english village
+3876,off in the sagebrush
+3877,desert state park
+3878,gold mine
+3879,elsewhere in desert
+3880,upstairs bathroom
+3881,springfield pharmaceuticals
+3882,tarmac outside springfield pharmaceuticals
+3883,near park
+3884,the simpson attic
+3885,springfield clamphitheater
+3886,shabby house
+3887,tour van
+3888,cat lady house
+3889,outdoor half-shell stage
+3890,wacky comedy club
+3891,comedy club
+3892,maze
+3893,capitol city theater
+3894,ogdenville barley palace
+3895,sky above plant
+3896,springfield atoms stadium
+3897,elsewhere in stadium concourse
+3898,counseling center
+3899,homeless camp
+3900,field of cacti
+3901,freestone family peach orchard
+3902,peach orchard
+3903,springfield day spa
+3904,horticulture society
+3905,little baltimore
+3906,victorian brownstone
+3907,raymondo house
+3908,victorian townhouse
+3909,raymondo mansion
+3910,springfield magic palace
+3911,grassy area next to forest
+3912,fbi surveillance truck
+3913,hotel parking lot
+3914,fat tony beach house
+3915,homer boyhood house
+3916,homer salon
+3917,springfield inn
+3918,policeman ball
+3919,narrow mountain road
+3920,duff brewery grounds
+3921,springfield elementary school basement
+3922,key store
+3923,woodshop
+3924,skies over springfield
+3925,mysterious basement classroom
+3926,circular classroom
+3927,imposing downtown springfield building
+3928,administrative detention room
+3929,detention facility
+3930,rubber room
+3931,administrative suspension building
+3932,mall restaurant
+3933,comic book guy office
+3934,top chef kitchen
+3935,high-tech training facility
+3936,cia office
+3937,sleep-eazy motel
+3938,gutter
+3939,kiev
+3940,viktor mansion
+3941,ice skating facility
+3942,pep closet
+3943,chalmers house
+3944,box
+3945,springfield lake
+3946,a lush jungle planet
+3947,military briefing room
+3948,avatar linking station
+3949,pandora
+3950,rigel 7
+3951,jungle clearing
+3952,dr frankenstein castle
+3953,side of pond
+3954,homer and roz workstations
+3955,retirement castle recreation room
+3956,roz workstation
+3957,e4
+3958,event center
+3959,strange neighborhood
+3960,ethiopian neighborhood
+3961,little ethiopia
+3962,ethiopian restaurant
+3963,marge dream
+3964,english bedroom
+3965,el chemistri
+3966,wrong address
+3967,real el chemistri
+3968,meth lab
+3969,burning meth lab
+3970,krustyland
+3971,duff center arena
+3972,outer concourse
+3973,changing room
+3974,corporate skyscraper
+3975,tween lit inc meeting room
+3976,convention floor
+3977,slick publisher office
+3978,literary towers
+3979,literary towers lobby
+3980,printing room floor
+3981,bookaccinos
+3982,the loin king
+3983,chophouse
+3984,sports stadium
+3985,condo skyscraper
+3986,robert marlowe fancy apartment
+3987,rattler river canyon
+3988,simpson raft
+3989,ballet stage
+3990,channel six office building
+3991,channel six studios conference room
+3992,upa agency building
+3993,dinky office building
+3994,small office building
+3995,the village id
+3996,the off-broadway deli
+3997,annie apartment
+3998,annie talent agency
+3999,hbo-type cable network boardroom
+4000,hbowtime studio
+4001,network boardroom
+4002,krusty bedroom
+4003,lisa house
+4004,maggie suite
+4005,heathrow teleport
+4006,bart old bedroom
+4007,apu and manjula house
+4008,the ultranet
+4009,hover-car
+4010,cryogenic facility
+4011,security examination room
+4012,tv show set
+4013,gut check set
+4014,all-american house
+4015,spiffany
+4016,main street usa
+4017,colonial meeting house
+4018,gut check with homer simpson soundstage
+4019,lotion store
+4020,cinnabun store
+4021,village
+4022,medieval shack
+4023,french village
+4024,marguerite house
+4025,cliffside road
+4026,bottom of the cliff
+4027,persia
+4028,sistine chapel
+4029,dust bowl
+4030,mt everest
+4031,yeti cave
+4032,springfield batting cage
+4033,the needle exchange
+4034,sewing parlor
+4035,cove
+4036,the cove
+4037,storm shelter
+4038,town hall meeting room
+4039,the outlands
+4040,outlands
+4041,swapper jack
+4042,springfield - day
+4043,springfield street - day
+4044,art gallery - day
+4045,bart bed
+4046,bohemian art gallery
+4047,art gallery - continuous
+4048,street outside plant
+4049,enormous store
+4050,ski mountain
+4051,next dream level
+4052,old globe theater
+4053,inception-style beach
+4054,homer dream city
+4055,just above spiky rocks
+4056,small shed
+4057,shore of lake
+4058,center of lake
+4059,homer dream
+4060,examination room
+4061,victorian solarium
+4062,sport palais
+4063,all the wrong reasons movie theater
+4064,port
+4065,cruise check-in area
+4066,kidzone
+4067,ship communication room
+4068,war room
+4069,antarctica
+4070,caribbean beach
+4071,springfield coast highway
+4072,springfield playhouse
+4073,springfield municipal theater
+4074,springfield hospital - day
+4075,party supply store
+4076,springfield - evening
+4077,gaga express
+4078,lady gaga express
+4079,banquet tent
+4080,nikki house
+4081,50s new york night club
+4082,subway station
+4083,taxicab
+4084,mary apartment building
+4085,new york high line
+4086,lincoln center subway stop
+4087,high line
+4088,inside delacorte theater
+4089,new york skyline
+4090,rock center cafÉ
+4091,grand central station
+4092,grand central
+4093,another train
+4094,supercollider
+4095,simpson house - basement
+4096,wormhole
+4097,alien universe
+4098,modern ultra mansion
+4099,artie yard
+4100,cross-section of underground springfield
+4101,cavern
+4102,marge new car
+4103,auto dealership
+4104,route 33
+4105,craftsman bungalow
+4106,museum of christmas ornaments
+4107,igloo motor lodge
+4108,marge hatchback
+4109,rest stop
+4110,fertility clinic
+4111,lawyer office
+4112,retirement castle - abe room
+4113,spiro
+4114,old apartment complex
+4115,juke joint
+4116,rita apartment
+4117,old-time cologne store
+4118,retirement castle - day room
+4119,monument valley
+4120,louie apartment
+4121,donut cart
+4122,neighbors house
+4123,kid room
+4124,neighbors backyard
+4125,used record store
+4126,highway leading to springfield
+4127,springfield - downtown
+4128,large industrial factory
+4129,younger grampa and mona house
+4130,springfield - homer boyhood
+4131,streets of springfield - day
+4132,animal control van
+4133,younger grampa car
+4134,country road - morning
+4135,grampa and homer house
+4136,burns manor dog kennel
+4137,country road - near miss viola farm
+4138,springfield - the past
+4139,mall parking lot
+4140,smart tykes
+4141,kids structure type chamber
+4142,climbing structure
+4143,snack bar
+4144,laser tag arena
+4145,learning zone
+4146,secluded compound
+4147,mysterious basement
+4148,bug-out location
+4149,various country roads
+4150,channel 6 news desk
+4151,news room
+4152,outside city dump
+4153,refuse pile
+4154,various classes
+4155,channel six news desk
+4156,wishing well
+4157,lenny van
+4158,cletus front porch
+4159,brandine kitchen
+4160,grady and julio house
+4161,coastal highway
+4162,mav and portia back yard
+4163,portia home office
+4164,portia and mav house
+4165,sea captain boat
+4166,mav and portia ski house
+4167,neutral location
+4168,simpson front door
+4169,fishing pond
+4170,cornfield
+4171,cletus kitchen
+4172,springfield opry house
+4173,art movie house
+4174,brokewood apartments
+4175,common room
+4176,limbo background
+4177,children bookstore
+4178,van houten kitchen
+4179,van houten bathroom
+4180,van houten master bedroom
+4181,u-rent-it
+4182,ez-rent
+4183,election polling station
+4184,lithuanian center
+4185,springfield bus station
+4186,lazy parent educational videos
+4187,marriott-style hotel
+4188,locked room
+4189,military antique shop
+4190,storage complex
+4191,storage locker complex
+4192,wrestling arena
+4193,the past
+4194,old-time club
+4195,old-time wrestling pavilion
+4196,wrestling pavilion
+4197,wrestlers dressing room
+4198,storage locker facility
+4199,ms cantwell class
+4200,super-headquarters
+4201,demolished city
+4202,swankyfish
+4203,base of a waterfall
+4204,chef naziwa bedroom
+4205,sex shop
+4206,dog stomach
+4207,rub a dub dub three men selling tubs
+4208,hot tub store
+4209,springfield swamp
+4210,oogle mobile
+4211,men wearhouse
+4212,top of skyscraper party
+4213,capital city stock exchange
+4214,slightly run-down neighborhood
+4215,russian living room
+4216,zhenya house
+4217,simpson piano room
+4218,russian house
+4219,science museum
+4220,hall of probability
+4221,winding road
+4222,carl apartment
+4223,streets of reykjavik
+4224,reykjavik clothing store
+4225,icelandic museum of national history
+4226,icelandic car
+4227,gates
+4228,reykjavik
+4229,icelandic restaurant
+4230,reykjavik streets
+4231,icelandic library
+4232,medieval iceland
+4233,reykjavik town square
+4234,outdoor mall
+4235,the same mall
+4236,supermarket coffee shop
+4237,ben bedroom
+4238,seedy-looking street
+4239,lenny car
+4240,boise
+4241,boise astoria
+4242,fbi call center
+4243,plant operations center
+4244,shelter for homeless hoos
+4245,springville
+4246,child therapy office
+4247,lumber mill
+4248,sawmill
+4249,springfieldland
+4250,freak show tent
+4251,circus
+4252,marge wagon
+4253,marguerite wagon
+4254,marge and homer old apartment
+4255,alley mcballs
+4256,artist garret
+4257,new york street
+4258,fox news
+4259,springfield soup kitchen
+4260,springfield tapas bar
+4261,detention
+4262,carl apartment building
+4263,atoms football stadium
+4264,gretchen apartment
+4265,scratchy house
+4266,gretchen apartment building
+4267,isabel bedroom
+4268,springfield republican party castle
+4269,maggie bar
+4270,debate studio
+4271,the old west
+4272,springfield neighborhood
+4273,cartoon beach
+4274,ron rabinowitz agency
+4275,ron rabinowitz office
+4276,old west town
+4277,tropical resort
+4278,resort center
+4279,wintry springfield street
+4280,towne centre at springfielde glenne
+4281,movie theater - alley
+4282,swedish consulate
+4283,federal courthouse
+4284,federal courtroom
+4285,zenith city nuclear plant
+4286,chuck dukewagon all-american chow lounge
+4287,bungalow
+4288,carlock office
+4289,candle rack
+4290,little league ball field
+4291,falconry clubhouse
+4292,treetop
+4293,falconry club
+4294,competition area
+4295,hoover class
+4296,mr largo class
+4297,church lobby
+4298,monsarno research labs
+4299,monsarno lab
+4300,monsarno labs
+4301,seminar room
+4302,church meeting room
+4303,church seminar room
+4304,monsarno campus
+4305,bob lab
+4306,springfield metropolitan museum
+4307,river bottom
+4308,dance hall
+4309,boys locker room
+4310,bingo hall
+4311,six flags over krusty amusement park
+4312,springfield seaside
+4313,shower
+4314,rural springfield
+4315,guinea pig rescue
+4316,van houtens yard
+4317,art auction house
+4318,springfield art auction house
+4319,kiddie playground
+4320,pay leave supermarket
+4321,auction floor
+4322,isla verde
+4323,cafÉ artiste gelato
+4324,cliffside villa
+4325,zeigler studio
+4326,multi-purpose room
+4327,airliner cabin
+4328,sao paulo
+4329,luxemburg
+4330,another broadcasting booth
+4331,downtown sao paulo
+4332,restaurante figueira rubaiyat
+4333,seedy bar
+4334,drycleaners
+4335,referee tunnel
+4336,amazon river
+4337,body shop office
+4338,elementary school cafeteria
+4339,lofts at springfield elementary
+4340,bart apartment
+4341,cretaceous park
+4342,charity shelter
+4343,industrial space
+4344,lisa and milhouse kitchen
+4345,playground behind lofts at springfield elementary
+4346,jenda house
+4347,jenda apartment
+4348,moe
+4349,tipsy mcstaggers
+4350,art class
+4351,springfield french quarter
+4352,vacant lot
+4353,ranch house
+4354,all sales vinyl
+4355,dreamscape
+4356,small apartment building
+4357,rural area
+4358,giuseppe workspace
+4359,fireworks barge
+4360,roast
+4361,broadway stage
+4362,jewish heaven
+4363,krusty roast set
+4364,concrete steps
+4365,open seas
+4366,the relation ship
+4367,crew quarters
+4368,simpson yard
+4369,mother hubbard sandwich cupboard
+4370,marge sub shop
+4371,manager office
+4372,mother hubbard
+4373,mother hubbard express
+4374,primordial springfield
+4375,grasslands
+4376,demonic detention room
+4377,demonic elementary school
+4378,demon school
+4379,demonic amphitheater
+4380,futuristic bar
+4381,record shop
+4382,dum room
+4383,milk bar
+4384,moog apartment
+4385,futuristic simpson house
+4386,futuristic springfield streets
+4387,the rich texan mansion
+4388,large boxy building
+4389,strange building
+4390,state house
+4391,state capitol building
+4392,maxine office
+4393,upscale hotel room
+4394,fracking building
+4395,fracking site
+4396,springfield heights
+4397,planet express
+4398,new new york
+4399,springfield downs horse track
+4400,planet express ship
+4401,omicron persei 8
+4402,lassen class
+4403,new simpson tent
+4404,burning guy
+4405,blazing guy
+4406,big box mall
+4407,guitar central
+4408,chain restaurant
+4409,zerz
+4410,van houten garage
+4411,springfield cabbage festival
+4412,performance area
+4413,cabbage festival
+4414,los angeles
+4415,mexican resort
+4416,costington center
+4417,springfield police department jail
+4418,outdoor springfield shopping mall
+4419,dizzneeland
+4420,outside park
+4421,rooftop
+4422,ferry
+4423,theme park
+4424,mr bug slow crawl ride
+4425,kooky cat deli-cat-essen
+4426,ride entrance
+4427,rocket to your doom
+4428,simpsons cabin
+4429,simpsons ship
+4430,alien zoo
+4431,simpsons cage
+4432,planet
+4433,circus with midway
+4434,hypnotist tent
+4435,springfield fishing hole
+4436,soarin over springfield ride
+4437,subterranean glass cell
+4438,subterranean cell
+4439,high-tech skyrocket factory
+4440,roof near the power plant
+4441,outer space
+4442,rocket
+4443,classic old theatre
+4444,springfield jail cell
+4445,markup brothers funeral home
+4446,walk-in freezer
+4447,nuclear plant cafeteria
+4448,five seasons hotel
+4449,fancy hotel suite
+4450,above springfield
+4451,over springfield
+4452,ruined church
+4453,flanders
+4454,riverboat casino
+4455,skobo
+4456,flanders basement
+4457,casino floor
+4458,burned church
+4459,playdude mansion
