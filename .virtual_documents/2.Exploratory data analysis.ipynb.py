@@ -3,11 +3,12 @@ import numpy as np
 from matplotlib import pyplot as plt
 import re
 import string
-import pickle
 import spacy
 from wordcloud import WordCloud
+from spacytextblob.spacytextblob import SpacyTextBlob
 
 nlp = spacy.load('en_core_web_sm')
+nlp.add_pipe('spacytextblob')
 
 
 scripts_df = pd.read_csv('Data/Processed/simpsons_cleaned_script_lines.csv')
@@ -66,6 +67,29 @@ wc.generate(' '.join(all_words))
 plt.imshow(wc, interpolation = 'spline36')
 plt.axis("off")
 plt.show()
+
+
+polarities = []
+subjectivities = []
+
+for i, raw_text in enumerate(scripts_df['raw_text']):
+    
+    doc = nlp(raw_text)
+    polarities.append(doc._.polarity)
+    subjectivities.append(doc._.subjectivity)
+    
+    if i % 1000 == 0:
+        print(f'Processing {i} Script...')
+
+
+scripts_df['polarity'] = polarities
+scripts_df['subjectivity'] = subjectivities
+
+# Save new DataFrame
+scripts_df.to_csv('Data/Processed/sentimented_script_lines.csv', index = False)
+
+
+
 
 
 
