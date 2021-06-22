@@ -55,5 +55,14 @@ scripts_df.drop(columns = ['speaking_line'], inplace = True)
 scripts_df.rename(columns = {'spoken_words': 'raw_text', 'raw_character_text': 'character', 'raw_location_text': 'location'}, inplace = True)
 
 
+def normalize_text(text):
+    return ' '.join([token.lemma_ for token in nlp(text.lower()) if (not token.is_stop and not token.is_punct)])    
+
+scripts_df['normalized_text'] = scripts_df['raw_text'].apply(normalize_text)
+
+
+scripts_df
+
+
 scripts_df.to_csv('Data/Processed/scripts.csv', index = False)
 episods_df.to_csv('Data/Processed/episodes.csv', index = False)

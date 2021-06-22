@@ -9,6 +9,8 @@ nlp = spacy.load('en_core_web_md')
 scripts_df = pd.read_csv('Data/Processed/scripts.csv')
 episods_df = pd.read_csv('Data/Processed/episodes.csv')
 
+scripts_df.head(3)
+
 
 top_ten_active_characters = scripts_df.groupby(
     by = 'character',
@@ -22,6 +24,23 @@ plot = top_ten_active_characters[['character', 'raw_text']].plot.bar(x = 'charac
 fig = plot.get_figure()
 fig.set_size_inches(20, 5)
 fig.savefig("Plots/top_ten_active_characters.png")
+plt.show()
+
+
+normalized_text_values = scripts_df.loc[scripts_df['normalized_text'].notnull(), 'normalized_text'].values
+twenty_top_common_words = pd.Index(' '.join(normalized_text_values).split(' ')).value_counts()[:20]
+
+fig = plt.figure(figsize = (20, 5))
+plt.bar(x = twenty_top_common_words.index, height = twenty_top_common_words.values, label = 'Repetition')
+plt.legend()
+plt.savefig('Plots/twenty_top_common_words.png')
+plt.show()
+
+
+
+
+
+
 
 
 
