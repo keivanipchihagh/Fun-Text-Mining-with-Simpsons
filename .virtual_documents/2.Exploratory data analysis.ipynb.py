@@ -18,8 +18,9 @@ top_ten_active_characters = scripts_df.groupby(
     ascending = False
 ).iloc[:10]
 
-plot = top_ten_active_characters[['character', 'raw_text']].plot.bar(x = 'character', y = 'raw_text', label = 'Dialogs', rot = 45)
+plot = top_ten_active_characters[['character', 'raw_text']].plot.bar(x = 'character', y = 'raw_text', label = 'Dialogs', rot = 30)
 fig = plot.get_figure()
+fig.set_size_inches(20, 5)
 fig.savefig("Plots/top_ten_active_characters.png")
 
 
