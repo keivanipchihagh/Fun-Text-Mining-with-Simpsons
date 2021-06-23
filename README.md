@@ -1,6 +1,6 @@
 # Fun Text Mining with Simpsons
- Analysing bunch of metrics on Simpsons dialogs, vectorizing and modeling with XGBoost
- 
+Exploratory data analysis for approximately 600 Simpsons episodes and scripts, topic modeling and text generation.
+
 ## Table of Content
 - Identify most on-screen characters
 - Group the most common words for each character (WordClouds)
