@@ -61,8 +61,5 @@ def normalize_text(text):
 scripts_df['normalized_text'] = scripts_df['raw_text'].apply(normalize_text)
 
 
-scripts_df
-
-
 scripts_df.to_csv('Data/Processed/scripts.csv', index = False)
 episods_df.to_csv('Data/Processed/episodes.csv', index = False)
